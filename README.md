@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (1 day ago)
+- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository (1 week ago)
 
