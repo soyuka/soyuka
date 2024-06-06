@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
 - [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (2 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 days ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
