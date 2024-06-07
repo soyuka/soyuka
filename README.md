@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
-- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 days ago)
+- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (1 day ago)
+- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.1](https://github.com/symfony/symfony/releases/tag/v7.1.1), 3 days ago) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.5](https://github.com/api-platform/demo/releases/tag/v3.3.5), 1 week ago) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.5](https://github.com/api-platform/core/releases/tag/v3.3.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [mrhenry](https://github.com/mrhenry) (3 weeks ago)
-- [damienalexandre](https://github.com/damienalexandre) (3 weeks ago)
+- [damienalexandre](https://github.com/damienalexandre) (4 weeks ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (5 months ago)
