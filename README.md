@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (6 days ago)
+- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (1 week ago)
 - [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (1 week ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [mrhenry](https://github.com/mrhenry) (4 weeks ago)
+- [mrhenry](https://github.com/mrhenry) (1 month ago)
 - [damienalexandre](https://github.com/damienalexandre) (1 month ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (5 months ago)
