@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (today)
 
 #### 🔭 Latest releases I've contributed to
 
