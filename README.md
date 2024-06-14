@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
-- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (1 day ago)
+- [soyuka/esa](https://github.com/soyuka/esa) - Edge side APIs for front-end developpers (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
