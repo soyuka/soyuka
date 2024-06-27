@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 days ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6-1](https://github.com/api-platform/demo/releases/tag/v3.3.6-1), today) - Demo app for the API Platform framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.6-1](https://github.com/api-platform/demo/releases/tag/v3.3.6-1), 1 day ago) - Demo app for the API Platform framework
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.0](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.0), 1 week ago) - The Official PHP MongoDB ORM/ODM
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.6](https://github.com/api-platform/api-platform/releases/tag/v3.3.6), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
