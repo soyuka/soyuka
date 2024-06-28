@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.7](https://github.com/api-platform/api-platform/releases/tag/v3.3.7), today) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), today) - The Symfony PHP framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.7](https://github.com/api-platform/demo/releases/tag/v3.3.7), today) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
