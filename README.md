@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (today)
 
 #### 🔭 Latest releases I've contributed to
 
