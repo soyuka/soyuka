@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 days ago)
-- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (3 days ago)
+- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (4 days ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.0), 1 day ago) - :musical_score: Extension integrating Behat with Symfony.
+- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.0), 2 days ago) - :musical_score: Extension integrating Behat with Symfony.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v3.3.7](https://github.com/api-platform/api-platform/releases/tag/v3.3.7), 1 week ago) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [damienalexandre](https://github.com/damienalexandre) (1 month ago)
-- [FrontendMasters](https://github.com/FrontendMasters) (5 months ago)
+- [FrontendMasters](https://github.com/FrontendMasters) (6 months ago)
 - [Toflar](https://github.com/Toflar) (3 years ago)
