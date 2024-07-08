@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (6 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
-- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (6 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 
 #### 🔭 Latest releases I've contributed to
 
