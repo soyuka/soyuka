@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([5.3.0](https://github.com/jsonrainbow/json-schema/releases/tag/5.3.0), 3 days ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0-beta](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0-beta), today) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.0), 5 days ago) - :musical_score: Extension integrating Behat with Symfony.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
