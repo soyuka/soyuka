@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (today)
 - [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (3 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0-beta](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0-beta), 2 days ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.0](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.0), 1 week ago) - :musical_score: Extension integrating Behat with Symfony.
-- [api-platform/admin](https://github.com/api-platform/admin) ([v3.4.8](https://github.com/api-platform/admin/releases/tag/v3.4.8), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), today) - Demo app for the API Platform framework
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.3](https://github.com/soyuka/pmu/releases/tag/v0.0.3), today) - PHP Monorepo Utility
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.8](https://github.com/api-platform/core/releases/tag/v3.3.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
