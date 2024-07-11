@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.4](https://github.com/soyuka/pmu/releases/tag/v0.0.4), today) - PHP Monorepo Utility
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), today) - Demo app for the API Platform framework
-- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.3](https://github.com/soyuka/pmu/releases/tag/v0.0.3), today) - PHP Monorepo Utility
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.8](https://github.com/api-platform/core/releases/tag/v3.3.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
