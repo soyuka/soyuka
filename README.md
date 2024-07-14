@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (2 days ago)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (5 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (5 days ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (3 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (6 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.4](https://github.com/soyuka/pmu/releases/tag/v0.0.4), 2 days ago) - PHP Monorepo Utility
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), 2 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.8](https://github.com/api-platform/core/releases/tag/v3.3.8), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.4](https://github.com/soyuka/pmu/releases/tag/v0.0.4), 3 days ago) - PHP Monorepo Utility
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), 3 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.8](https://github.com/api-platform/core/releases/tag/v3.3.8), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
