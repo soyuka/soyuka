@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (4 days ago)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (today)
 
 #### 🔭 Latest releases I've contributed to
 
