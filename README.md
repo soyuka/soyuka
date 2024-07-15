@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.0](https://github.com/api-platform/admin/releases/tag/v4.0.0), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.4](https://github.com/soyuka/pmu/releases/tag/v0.0.4), 4 days ago) - PHP Monorepo Utility
 - [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.8](https://github.com/api-platform/demo/releases/tag/v3.3.8), 4 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.3.8](https://github.com/api-platform/core/releases/tag/v3.3.8), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
