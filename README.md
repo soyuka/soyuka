@@ -14,11 +14,11 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
+- [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (1 day ago)
 - [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (2 months ago)
 - [API Platform 3.2](https://soyuka.me/api-platform-3.2/) (9 months ago)
 - [An HTTP State story](https://soyuka.me/http-state-story/) (9 months ago)
 - [How to create a PHP Playground for your documentation](https://soyuka.me/how-to-create-a-php-playground-for-your-documentation/) (9 months ago)
-- [API Platform 3.1](https://soyuka.me/api-platform-3.1-whats-new/) (2 years ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
