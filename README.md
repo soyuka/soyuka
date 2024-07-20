@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.11](https://github.com/api-platform/demo/releases/tag/v3.3.11), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.3.11](https://github.com/api-platform/core/releases/tag/v3.3.11), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.10](https://github.com/api-platform/demo/releases/tag/v3.3.10), today) - Demo app for the API Platform framework
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.0](https://github.com/api-platform/admin/releases/tag/v4.0.0), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://soyuka.me)
