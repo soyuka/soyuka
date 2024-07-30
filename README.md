@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), today) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9), today) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 4 days ago) - The Symfony PHP framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v3.3.11](https://github.com/api-platform/demo/releases/tag/v3.3.11), 1 week ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
