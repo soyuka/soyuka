@@ -8,13 +8,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), today) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9), today) - The PHP Unit Testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 4 days ago) - The Symfony PHP framework
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), 1 day ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9), 1 day ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 5 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (1 week ago)
+- [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (2 weeks ago)
 - [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (3 months ago)
 - [API Platform 3.2](https://soyuka.me/api-platform-3.2/) (9 months ago)
 - [An HTTP State story](https://soyuka.me/http-state-story/) (10 months ago)
