@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), 1 day ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 1 day ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), 2 days ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.2.9](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.9), 2 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
