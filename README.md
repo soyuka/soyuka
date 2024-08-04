@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 week ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 weeks ago)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 weeks ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 1 day ago) - The PHP Unit Testing framework.
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 3 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), 4 days ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), 5 days ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
