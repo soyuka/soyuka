@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 2 days ago) - The PHP Unit Testing framework.
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), 5 days ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 3 days ago) - The PHP Unit Testing framework.
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [jsonrainbow/json-schema](https://github.com/jsonrainbow/json-schema) ([6.0.0](https://github.com/jsonrainbow/json-schema/releases/tag/6.0.0), 6 days ago) - PHP implementation of JSON schema. Fork of the http://jsonschemaphpv.sourceforge.net/ project 
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [fvozar](https://github.com/fvozar) (2 weeks ago)
+- [fvozar](https://github.com/fvozar) (3 weeks ago)
 - [damienalexandre](https://github.com/damienalexandre) (2 months ago)
-- [FrontendMasters](https://github.com/FrontendMasters) (6 months ago)
+- [FrontendMasters](https://github.com/FrontendMasters) (7 months ago)
