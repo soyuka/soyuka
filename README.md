@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (2 weeks ago)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - API Platform Hydra component (2 weeks ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
