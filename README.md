@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (today)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - API Platform JSON-API component (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
 - [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (today)
 
