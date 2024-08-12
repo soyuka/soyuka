@@ -4,7 +4,7 @@
 
 - [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (2 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/json-api](https://github.com/api-platform/json-api) - API Platform JSON-API component (3 days ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
