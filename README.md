@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 1 week ago) - The PHP Unit Testing framework.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
