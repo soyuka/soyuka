@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/json-api](https://github.com/api-platform/json-api) - API Platform JSON-API component (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - API Platform JSON-API component (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.0), 1 week ago) - The PHP Unit Testing framework.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
