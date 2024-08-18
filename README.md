@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (4 days ago)
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (5 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (5 days ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (5 days ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (6 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.3), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1), 4 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.3), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1), 5 days ago) - The PHP Unit Testing framework.
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.1](https://github.com/api-platform/admin/releases/tag/v4.0.1), 2 weeks ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://soyuka.me)
