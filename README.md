@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (today)
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 week ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (today)
 
 #### 🔭 Latest releases I've contributed to
 
