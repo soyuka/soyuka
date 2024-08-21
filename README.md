@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
 - [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
 
 #### 🔭 Latest releases I've contributed to
 
