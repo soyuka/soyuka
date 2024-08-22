@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.8](https://github.com/soyuka/pmu/releases/tag/v0.0.8), 2 days ago) - PHP Monorepo Utility
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.8](https://github.com/soyuka/pmu/releases/tag/v0.0.8), 3 days ago) - PHP Monorepo Utility
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1), 1 week ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
