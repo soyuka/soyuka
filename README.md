@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (today)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (today)
 
 #### 🔭 Latest releases I've contributed to
 
