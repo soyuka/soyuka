@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (6 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (6 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
 
 #### 🔭 Latest releases I've contributed to
 
