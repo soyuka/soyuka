@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.3.12](https://github.com/api-platform/core/releases/tag/v3.3.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.1](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.1), 4 days ago) - The Official PHP MongoDB ORM/ODM
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.0-alpha.4](https://github.com/api-platform/core/releases/tag/v4.0.0-alpha.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.8](https://github.com/soyuka/pmu/releases/tag/v0.0.8), 1 week ago) - PHP Monorepo Utility
 
 #### 📜 My recent [blog posts](https://soyuka.me)
