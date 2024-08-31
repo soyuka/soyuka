@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (today)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (today)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (1 day ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - API Platform Elasticsearch bridge (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), today) - The Symfony PHP framework
-- [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.1](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.1), 4 days ago) - The Official PHP MongoDB ORM/ODM
+- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 day ago) - The Symfony PHP framework
+- [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.1](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.1), 5 days ago) - The Official PHP MongoDB ORM/ODM
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
