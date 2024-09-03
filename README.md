@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 3 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 4 days ago) - The Symfony PHP framework
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.1](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.1), 1 week ago) - The Official PHP MongoDB ORM/ODM
 
 #### 📜 My recent [blog posts](https://soyuka.me)
