@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.2), today) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.3](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 4 days ago) - The Symfony PHP framework
-- [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.1](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.1), 1 week ago) - The Official PHP MongoDB ORM/ODM
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
