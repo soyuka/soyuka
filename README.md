@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.3](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 4 days ago) - The Symfony PHP framework
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.1](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.1), 1 week ago) - The Official PHP MongoDB ORM/ODM
 
