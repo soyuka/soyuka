@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (2 days ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.4](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.2), today) - The PHP Unit Testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 4 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.4](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.2), 1 day ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 5 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -24,4 +24,4 @@
 
 - [mrhenry](https://github.com/mrhenry) (3 months ago)
 - [damienalexandre](https://github.com/damienalexandre) (3 months ago)
-- [FrontendMasters](https://github.com/FrontendMasters) (7 months ago)
+- [FrontendMasters](https://github.com/FrontendMasters) (8 months ago)
