@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.2](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.2), today) - The Official PHP MongoDB ORM/ODM
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3), 2 days ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.8](https://github.com/soyuka/pmu/releases/tag/v0.0.8), 2 weeks ago) - PHP Monorepo Utility
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
