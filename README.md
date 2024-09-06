@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - API Platform HttpCache component (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
-- [api-platform/validator](https://github.com/api-platform/validator) - API Platform Validator component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) ([2.8.2](https://github.com/doctrine/mongodb-odm/releases/tag/2.8.2), today) - The Official PHP MongoDB ORM/ODM
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3), 2 days ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.4.0-alpha.4](https://github.com/api-platform/core/releases/tag/v3.4.0-alpha.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
