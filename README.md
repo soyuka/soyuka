@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (today)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3), 3 days ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.8](https://github.com/soyuka/pmu/releases/tag/v0.0.8), 2 weeks ago) - PHP Monorepo Utility
 
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [mrhenry](https://github.com/mrhenry) (3 months ago)
-- [damienalexandre](https://github.com/damienalexandre) (3 months ago)
+- [damienalexandre](https://github.com/damienalexandre) (4 months ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (8 months ago)
