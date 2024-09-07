@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
 - [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
