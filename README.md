@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/documentation](https://github.com/api-platform/documentation) - API Platform Documentation component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (1 day ago)
 - [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (1 day ago)
 
