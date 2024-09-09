@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (3 days ago)
-- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - API Platform RamseyUuid bridge (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
