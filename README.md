@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - API Platform JSON-LD component (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (today)
 
