@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.4), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.4), 3 days ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.8](https://github.com/soyuka/pmu/releases/tag/v0.0.8), 3 weeks ago) - PHP Monorepo Utility
 
