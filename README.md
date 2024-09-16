@@ -4,7 +4,7 @@
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - API Platform Serializer component (today)
-- [api-platform/graphql](https://github.com/api-platform/graphql) - Build GraphQL API endpoints (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - Laravel component (today)
 
 #### 🔭 Latest releases I've contributed to
 
