@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 
 #### 🔭 Latest releases I've contributed to
 
