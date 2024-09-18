@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
 - [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (today)
+- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.1), today) - PDG: PHP Documentation Generator
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5), 5 days ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 2 weeks ago) - The Symfony PHP framework
-- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.8](https://github.com/soyuka/pmu/releases/tag/v0.0.8), 1 month ago) - PHP Monorepo Utility
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
