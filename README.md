@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (today)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 
 #### 🔭 Latest releases I've contributed to
 
