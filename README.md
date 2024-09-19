@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (today)
-- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) - PDG: PHP Documentation Generator (today)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.1), today) - PDG: PHP Documentation Generator
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5), 5 days ago) - The PHP Unit Testing framework.
+- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.1), 1 day ago) - PDG: PHP Documentation Generator
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5), 6 days ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 2 weeks ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -18,7 +18,7 @@
 - [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (4 months ago)
 - [API Platform 3.2](https://soyuka.me/api-platform-3.2/) (11 months ago)
 - [An HTTP State story](https://soyuka.me/http-state-story/) (11 months ago)
-- [How to create a PHP Playground for your documentation](https://soyuka.me/how-to-create-a-php-playground-for-your-documentation/) (11 months ago)
+- [How to create a PHP Playground for your documentation](https://soyuka.me/how-to-create-a-php-playground-for-your-documentation/) (1 year ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
