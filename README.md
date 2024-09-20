@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - Symfony API Platform integration (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] Symfony API Platform integration (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 
 #### 🔭 Latest releases I've contributed to
