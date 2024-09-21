@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] Symfony API Platform integration (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] Symfony API Platform integration (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6), 1 day ago) - The PHP Unit Testing framework.
-- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.1), 2 days ago) - PDG: PHP Documentation Generator
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6), 2 days ago) - The PHP Unit Testing framework.
+- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.1), 3 days ago) - PDG: PHP Documentation Generator
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
