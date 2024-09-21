@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6), 2 days ago) - The PHP Unit Testing framework.
-- [php-documentation-generator/php-documentation-generator](https://github.com/php-documentation-generator/php-documentation-generator) ([v0.0.1](https://github.com/php-documentation-generator/php-documentation-generator/releases/tag/v0.0.1), 3 days ago) - PDG: PHP Documentation Generator
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
