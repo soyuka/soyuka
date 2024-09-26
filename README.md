@@ -2,21 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 4 days ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6), 6 days ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.5](https://github.com/symfony/symfony/releases/tag/v7.1.5), 5 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.1](https://github.com/api-platform/core/releases/tag/v4.0.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.3.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6), 1 week ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (2 days ago)
+- [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (3 days ago)
 - [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (2 months ago)
-- [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (4 months ago)
+- [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (5 months ago)
 - [API Platform 3.2](https://soyuka.me/api-platform-3.2/) (11 months ago)
 - [An HTTP State story](https://soyuka.me/http-state-story/) (1 year ago)
 
