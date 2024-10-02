@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 day ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
