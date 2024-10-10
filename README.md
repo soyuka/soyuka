@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (5 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (6 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1), 1 day ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.3](https://github.com/api-platform/core/releases/tag/v4.0.3), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.15](https://github.com/soyuka/pmu/releases/tag/v0.0.15), 5 days ago) - PHP Monorepo Utility
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.3](https://github.com/api-platform/core/releases/tag/v4.0.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.15](https://github.com/soyuka/pmu/releases/tag/v0.0.15), 6 days ago) - PHP Monorepo Utility
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
