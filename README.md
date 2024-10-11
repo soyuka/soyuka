@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
+- [Fan2Shrek](https://github.com/Fan2Shrek) (today)
 - [damienalexandre](https://github.com/damienalexandre) (5 months ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (9 months ago)
-- [Toflar](https://github.com/Toflar) (3 years ago)
