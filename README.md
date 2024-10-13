@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (6 days ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.4](https://github.com/api-platform/core/releases/tag/v4.0.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1), 4 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.4](https://github.com/api-platform/core/releases/tag/v4.0.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1), 5 days ago) - The PHP Unit Testing framework.
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.15](https://github.com/soyuka/pmu/releases/tag/v0.0.15), 1 week ago) - PHP Monorepo Utility
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [Fan2Shrek](https://github.com/Fan2Shrek) (1 day ago)
+- [Fan2Shrek](https://github.com/Fan2Shrek) (2 days ago)
 - [damienalexandre](https://github.com/damienalexandre) (5 months ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (9 months ago)
