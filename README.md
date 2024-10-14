@@ -4,7 +4,7 @@
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
