@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.4](https://github.com/api-platform/core/releases/tag/v4.0.4), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.4](https://github.com/api-platform/core/releases/tag/v4.0.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1), 1 week ago) - The PHP Unit Testing framework.
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.15](https://github.com/soyuka/pmu/releases/tag/v0.0.15), 1 week ago) - PHP Monorepo Utility
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [Fan2Shrek](https://github.com/Fan2Shrek) (4 days ago)
+- [Fan2Shrek](https://github.com/Fan2Shrek) (5 days ago)
 - [damienalexandre](https://github.com/damienalexandre) (5 months ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (9 months ago)
