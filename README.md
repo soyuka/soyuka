@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
