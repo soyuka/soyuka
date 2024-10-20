@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 day ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v3.4.4](https://github.com/api-platform/core/releases/tag/v3.4.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v3.4.4](https://github.com/api-platform/core/releases/tag/v3.4.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.15](https://github.com/soyuka/pmu/releases/tag/v0.0.15), 2 weeks ago) - PHP Monorepo Utility
 
 #### 📜 My recent [blog posts](https://soyuka.me)
