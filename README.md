@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.5](https://github.com/api-platform/core/releases/tag/v4.0.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2), 5 days ago) - The PHP Unit Testing framework.
-- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.15](https://github.com/soyuka/pmu/releases/tag/v0.0.15), 2 weeks ago) - PHP Monorepo Utility
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.5](https://github.com/api-platform/core/releases/tag/v4.0.5), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2), 6 days ago) - The PHP Unit Testing framework.
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.0.15](https://github.com/soyuka/pmu/releases/tag/v0.0.15), 3 weeks ago) - PHP Monorepo Utility
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [Fan2Shrek](https://github.com/Fan2Shrek) (1 week ago)
+- [Fan2Shrek](https://github.com/Fan2Shrek) (2 weeks ago)
 - [damienalexandre](https://github.com/damienalexandre) (5 months ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (9 months ago)
