@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.45](https://github.com/symfony/symfony/releases/tag/v5.4.45), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.4.13](https://github.com/symfony/symfony/releases/tag/v6.4.13), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.4.5](https://github.com/api-platform/core/releases/tag/v3.4.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2), 1 week ago) - The PHP Unit Testing framework.
 
