@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 days ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (2 days ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.7](https://github.com/api-platform/core/releases/tag/v4.0.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.8](https://github.com/api-platform/api-platform/releases/tag/v4.0.8), today) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.8](https://github.com/api-platform/core/releases/tag/v4.0.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v7.2.0-BETA2), today) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3), 1 week ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
