@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (1 day ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 days ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [pringuin](https://github.com/pringuin) (5 days ago)
+- [pringuin](https://github.com/pringuin) (6 days ago)
 - [Fan2Shrek](https://github.com/Fan2Shrek) (3 weeks ago)
 - [mrhenry](https://github.com/mrhenry) (5 months ago)
