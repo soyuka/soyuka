@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 1 day ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.8](https://github.com/api-platform/api-platform/releases/tag/v4.0.8), 3 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.8](https://github.com/api-platform/core/releases/tag/v4.0.8), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 2 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.8](https://github.com/api-platform/api-platform/releases/tag/v4.0.8), 4 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.8](https://github.com/api-platform/core/releases/tag/v4.0.8), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [pringuin](https://github.com/pringuin) (1 week ago)
-- [Fan2Shrek](https://github.com/Fan2Shrek) (4 weeks ago)
-- [mrhenry](https://github.com/mrhenry) (5 months ago)
+- [Fan2Shrek](https://github.com/Fan2Shrek) (1 month ago)
+- [mrhenry](https://github.com/mrhenry) (6 months ago)
