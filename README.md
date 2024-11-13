@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.8](https://github.com/symfony/symfony/releases/tag/v7.1.8), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), today) - The Symfony PHP framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.0](https://github.com/dunglas/frankenphp/releases/tag/v1.3.0), today) - 🧟 The modern PHP app server
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
