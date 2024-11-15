@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (5 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (6 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 1 day ago) - The Symfony PHP framework
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.8](https://github.com/api-platform/api-platform/releases/tag/v4.0.8), 1 week ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.1](https://github.com/dunglas/frankenphp/releases/tag/v1.3.1), 1 day ago) - 🧟 The modern PHP app server
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 2 days ago) - The Symfony PHP framework
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.2](https://github.com/api-platform/admin/releases/tag/v4.0.2), 1 week ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
