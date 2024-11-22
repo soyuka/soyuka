@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.10](https://github.com/api-platform/core/releases/tag/v4.0.10), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.9](https://github.com/api-platform/api-platform/releases/tag/v4.0.9), 1 week ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.9](https://github.com/api-platform/core/releases/tag/v4.0.9), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.1](https://github.com/dunglas/frankenphp/releases/tag/v1.3.1), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
