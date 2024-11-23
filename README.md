@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.2](https://github.com/dunglas/frankenphp/releases/tag/v1.3.2), today) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.10](https://github.com/api-platform/core/releases/tag/v4.0.10), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.9](https://github.com/api-platform/api-platform/releases/tag/v4.0.9), 1 week ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.2.0-RC1), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
