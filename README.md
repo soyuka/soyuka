@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.10](https://github.com/api-platform/api-platform/releases/tag/v4.0.10), today) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.2](https://github.com/dunglas/frankenphp/releases/tag/v1.3.2), 2 days ago) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.10](https://github.com/api-platform/core/releases/tag/v4.0.10), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.9](https://github.com/api-platform/api-platform/releases/tag/v4.0.9), 1 week ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
