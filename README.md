@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9), today) - The Symfony PHP framework
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4), today) - The PHP Unit Testing framework.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.10](https://github.com/api-platform/api-platform/releases/tag/v4.0.10), 2 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.2](https://github.com/dunglas/frankenphp/releases/tag/v1.3.2), 4 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
