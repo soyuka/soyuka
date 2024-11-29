@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (6 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9), 1 day ago) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4), 1 day ago) - The PHP Unit Testing framework.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.10](https://github.com/api-platform/api-platform/releases/tag/v4.0.10), 3 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.9](https://github.com/symfony/symfony/releases/tag/v7.1.9), 2 days ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.10](https://github.com/api-platform/api-platform/releases/tag/v4.0.10), 4 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
