@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 3 days ago) - 🧟 The modern PHP app server
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 3 days ago) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4), 5 days ago) - The PHP Unit Testing framework.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 4 days ago) - 🧟 The modern PHP app server
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 4 days ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4), 6 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [damienalexandre](https://github.com/damienalexandre) (6 months ago)
-- [FrontendMasters](https://github.com/FrontendMasters) (10 months ago)
+- [FrontendMasters](https://github.com/FrontendMasters) (11 months ago)
 - [Toflar](https://github.com/Toflar) (4 years ago)
