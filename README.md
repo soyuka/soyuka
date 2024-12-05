@@ -14,11 +14,11 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
+- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (today)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (2 months ago)
 - [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (4 months ago)
 - [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (7 months ago)
 - [API Platform 3.2](https://soyuka.me/api-platform-3.2/) (1 year ago)
-- [An HTTP State story](https://soyuka.me/http-state-story/) (1 year ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
