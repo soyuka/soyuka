@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 2 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.11](https://github.com/api-platform/core/releases/tag/v4.0.11), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 3 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.11](https://github.com/api-platform/core/releases/tag/v4.0.11), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0), 3 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (3 days ago)
+- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (4 days ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (2 months ago)
 - [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (4 months ago)
 - [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (7 months ago)
