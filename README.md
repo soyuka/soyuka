@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1), today) - The PHP Unit Testing framework.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.0.11](https://github.com/api-platform/api-platform/releases/tag/v4.0.11), 5 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.11](https://github.com/api-platform/core/releases/tag/v4.0.11), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.0), 5 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
