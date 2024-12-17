@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
+- [SebLevDev](https://github.com/SebLevDev) (today)
 - [damienalexandre](https://github.com/damienalexandre) (7 months ago)
 - [FrontendMasters](https://github.com/FrontendMasters) (11 months ago)
-- [Toflar](https://github.com/Toflar) (4 years ago)
