@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
-- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.12](https://github.com/api-platform/core/releases/tag/v4.0.12), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 5 days ago) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1), 5 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.12](https://github.com/api-platform/core/releases/tag/v4.0.12), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 6 days ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1), 6 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
