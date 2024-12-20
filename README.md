@@ -4,11 +4,11 @@
 
 - [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.12](https://github.com/api-platform/core/releases/tag/v4.0.12), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 1 week ago) - The Symfony PHP framework
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.1](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1), 1 week ago) - The PHP Unit Testing framework.
 
