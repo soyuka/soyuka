@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
-- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (1 week ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 weeks ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 weeks ago)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 3 days ago) - The Symfony PHP framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 1 week ago) - 🧟 The modern PHP app server
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2), 1 week ago) - The PHP Unit Testing framework.
 
