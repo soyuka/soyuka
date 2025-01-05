@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 4 days ago) - The Symfony PHP framework
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 1 week ago) - 🧟 The modern PHP app server
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.2](https://github.com/symfony/symfony/releases/tag/v7.2.2), 5 days ago) - The Symfony PHP framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 2 weeks ago) - 🧟 The modern PHP app server
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2), 2 weeks ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -24,4 +24,4 @@
 
 - [SebLevDev](https://github.com/SebLevDev) (2 weeks ago)
 - [mrhenry](https://github.com/mrhenry) (7 months ago)
-- [damienalexandre](https://github.com/damienalexandre) (7 months ago)
+- [damienalexandre](https://github.com/damienalexandre) (8 months ago)
