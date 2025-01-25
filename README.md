@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.1](https://github.com/dunglas/frankenphp/releases/tag/v1.4.1), 4 days ago) - 🧟 The modern PHP app server
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.1](https://github.com/dunglas/frankenphp/releases/tag/v1.4.1), 5 days ago) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3), 1 week ago) - The PHP Unit Testing framework.
 
