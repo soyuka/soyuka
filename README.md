@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.2](https://github.com/dunglas/frankenphp/releases/tag/v1.4.2), today) - 🧟 The modern PHP app server
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.4), today) - The PHP Unit Testing framework.
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.3](https://github.com/api-platform/schema-generator/releases/tag/v5.2.3), today) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.1.0-alpha.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
