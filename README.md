@@ -4,7 +4,7 @@
 
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 day ago)
 - [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (2 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 weeks ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
