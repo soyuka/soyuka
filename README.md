@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.5), today) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), today) - The Symfony PHP framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.2](https://github.com/dunglas/frankenphp/releases/tag/v1.4.2), 1 day ago) - 🧟 The modern PHP app server
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.4), 1 day ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
