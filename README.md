@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.3](https://github.com/symfony/symfony/releases/tag/v7.2.3), today) - The Symfony PHP framework
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.2](https://github.com/dunglas/frankenphp/releases/tag/v1.4.2), 1 day ago) - 🧟 The modern PHP app server
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.4), 1 day ago) - The PHP Unit Testing framework.
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.3](https://github.com/api-platform/schema-generator/releases/tag/v5.2.3), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
