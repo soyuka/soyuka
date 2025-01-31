@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6), today) - The PHP Unit Testing framework.
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.4](https://github.com/api-platform/schema-generator/releases/tag/v5.2.4), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.1.0-beta.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.5), 2 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
