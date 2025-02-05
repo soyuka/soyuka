@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (today)
 - [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID (2 days ago)
-- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (2 days ago)
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
