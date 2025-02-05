@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID (1 day ago)
-- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (1 day ago)
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (5 days ago)
+- [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID (2 days ago)
+- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (2 days ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) ([v1.0.1](https://github.com/api-platform/hypermedia-client/releases/tag/v1.0.1), 1 day ago) - Hypermedia PHP Client
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6), 4 days ago) - The PHP Unit Testing framework.
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.4](https://github.com/api-platform/schema-generator/releases/tag/v5.2.4), 5 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) ([v1.0.1](https://github.com/api-platform/hypermedia-client/releases/tag/v1.0.1), 2 days ago) - Hypermedia PHP Client
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6), 5 days ago) - The PHP Unit Testing framework.
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.4](https://github.com/api-platform/schema-generator/releases/tag/v5.2.4), 6 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
