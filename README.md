@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (1 day ago)
-- [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
