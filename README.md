@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.7), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.1), today) - The PHP Unit Testing framework.
 - [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) ([v1.0.1](https://github.com/api-platform/hypermedia-client/releases/tag/v1.0.1), 4 days ago) - Hypermedia PHP Client
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.4](https://github.com/api-platform/schema-generator/releases/tag/v5.2.4), 1 week ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
