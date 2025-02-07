@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (1 day ago)
-- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (2 days ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
 
 #### 🔭 Latest releases I've contributed to
 
