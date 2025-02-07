@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (1 day ago)
+- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) - Hypermedia PHP Client (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.7), today) - The PHP Unit Testing framework.
-- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) ([v1.0.1](https://github.com/api-platform/hypermedia-client/releases/tag/v1.0.1), 3 days ago) - Hypermedia PHP Client
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([11.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.7), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/hypermedia-client](https://github.com/api-platform/hypermedia-client) ([v1.0.1](https://github.com/api-platform/hypermedia-client/releases/tag/v1.0.1), 4 days ago) - Hypermedia PHP Client
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.4](https://github.com/api-platform/schema-generator/releases/tag/v5.2.4), 1 week ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 
 #### 📜 My recent [blog posts](https://soyuka.me)
