@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.3](https://github.com/dunglas/frankenphp/releases/tag/v1.4.3), today) - 🧟 The modern PHP app server
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3), today) - The PHP Unit Testing framework.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.3](https://github.com/dunglas/frankenphp/releases/tag/v1.4.3), 1 day ago) - 🧟 The modern PHP app server
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3), 1 day ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.0-beta.2](https://github.com/api-platform/core/releases/tag/v4.1.0-beta.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
