@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
 - [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 weeks ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.18](https://github.com/api-platform/core/releases/tag/v4.0.18), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.4), 3 days ago) - The PHP Unit Testing framework.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.4](https://github.com/dunglas/frankenphp/releases/tag/v1.4.4), 5 days ago) - 🧟 The modern PHP app server
+- [api-platform/core](https://github.com/api-platform/core) ([v4.0.18](https://github.com/api-platform/core/releases/tag/v4.0.18), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.4), 4 days ago) - The PHP Unit Testing framework.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.4](https://github.com/dunglas/frankenphp/releases/tag/v1.4.4), 6 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
