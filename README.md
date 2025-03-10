@@ -4,7 +4,7 @@
 
 - [locbones/D2RLAN-WPF](https://github.com/locbones/D2RLAN-WPF) -  (1 day ago)
 - [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
-- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (1 week ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
