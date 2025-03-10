@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [locbones/D2RLAN-WPF](https://github.com/locbones/D2RLAN-WPF) -  (today)
-- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (2 days ago)
+- [locbones/D2RLAN-WPF](https://github.com/locbones/D2RLAN-WPF) -  (1 day ago)
+- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
 - [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7), 2 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7), 3 days ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.0.19](https://github.com/api-platform/core/releases/tag/v4.0.19), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 1 week ago) - The Symfony PHP framework
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [vemaeg](https://github.com/vemaeg) (3 days ago)
+- [vemaeg](https://github.com/vemaeg) (4 days ago)
 - [SebLevDev](https://github.com/SebLevDev) (2 months ago)
-- [mrhenry](https://github.com/mrhenry) (9 months ago)
+- [mrhenry](https://github.com/mrhenry) (10 months ago)
