@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [soyuka/piwigo-frankenphp](https://github.com/soyuka/piwigo-frankenphp) - Piwigo with Frankenphp (2 days ago)
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 3 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7), 1 week ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.0.19](https://github.com/api-platform/core/releases/tag/v4.0.19), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
