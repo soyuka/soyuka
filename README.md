@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.8), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.8), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.1](https://github.com/api-platform/core/releases/tag/v4.1.1), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 1 week ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
