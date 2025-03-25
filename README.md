@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.3](https://github.com/api-platform/core/releases/tag/v4.1.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.10), 1 day ago) - The PHP Unit Testing framework.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 1 week ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.3](https://github.com/api-platform/core/releases/tag/v4.1.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.10), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 2 weeks ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -18,10 +18,10 @@
 - [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (3 months ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (6 months ago)
 - [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (8 months ago)
-- [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (10 months ago)
+- [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (11 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [Crovitche-1623](https://github.com/Crovitche-1623) (1 week ago)
+- [Crovitche-1623](https://github.com/Crovitche-1623) (2 weeks ago)
 - [vemaeg](https://github.com/vemaeg) (2 weeks ago)
 - [SebLevDev](https://github.com/SebLevDev) (3 months ago)
