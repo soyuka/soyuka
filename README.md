@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 week ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (1 week ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.5.0](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0), today) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.3](https://github.com/api-platform/core/releases/tag/v4.1.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.0.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.10), 3 days ago) - The PHP Unit Testing framework.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v4.1.0](https://github.com/api-platform/api-platform/releases/tag/v4.1.0), 2 weeks ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
