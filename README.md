@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.4](https://github.com/api-platform/core/releases/tag/v4.1.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 3 days ago) - The Symfony PHP framework
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.5.0](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0), 5 days ago) - 🧟 The modern PHP app server
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.4](https://github.com/api-platform/core/releases/tag/v4.1.4), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 4 days ago) - The Symfony PHP framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.5.0](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0), 6 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [Crovitche-1623](https://github.com/Crovitche-1623) (2 weeks ago)
+- [Crovitche-1623](https://github.com/Crovitche-1623) (3 weeks ago)
 - [vemaeg](https://github.com/vemaeg) (3 weeks ago)
 - [SebLevDev](https://github.com/SebLevDev) (3 months ago)
