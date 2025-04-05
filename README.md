@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.0), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.5](https://github.com/api-platform/core/releases/tag/v4.1.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.0), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.5](https://github.com/api-platform/core/releases/tag/v4.1.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [Crovitche-1623](https://github.com/Crovitche-1623) (3 weeks ago)
-- [vemaeg](https://github.com/vemaeg) (4 weeks ago)
+- [vemaeg](https://github.com/vemaeg) (1 month ago)
 - [SebLevDev](https://github.com/SebLevDev) (3 months ago)
