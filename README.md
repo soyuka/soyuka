@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/laravel-starter-kit](https://github.com/api-platform/laravel-starter-kit) - API Platform Laravel Starter Kit (1 day ago)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 
