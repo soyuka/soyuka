@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
-- [api-platform/json-hal](https://github.com/api-platform/json-hal) - [READ ONLY] API Platform HAL component (1 day ago)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (1 day ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - [READ ONLY] API Platform Documentation component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (today)
 
 #### 🔭 Latest releases I've contributed to
 
