@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
-- [api-platform/json-hal](https://github.com/api-platform/json-hal) - [READ ONLY] API Platform HAL component (today)
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (today)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
+- [api-platform/json-hal](https://github.com/api-platform/json-hal) - [READ ONLY] API Platform HAL component (1 day ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3), 2 days ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.7](https://github.com/api-platform/core/releases/tag/v4.1.7), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 3 weeks ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3), 3 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.7](https://github.com/api-platform/core/releases/tag/v4.1.7), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.5](https://github.com/symfony/symfony/releases/tag/v7.2.5), 4 weeks ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
