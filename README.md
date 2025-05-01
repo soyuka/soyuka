@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (today)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (1 day ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
