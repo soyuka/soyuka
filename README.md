@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (4 days ago)
-- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (5 days ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 2 days ago) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4), 2 days ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4), 3 days ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.7](https://github.com/api-platform/core/releases/tag/v4.1.7), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [vemaeg](https://github.com/vemaeg) (1 month ago)
+- [vemaeg](https://github.com/vemaeg) (2 months ago)
 - [SebLevDev](https://github.com/SebLevDev) (4 months ago)
-- [damienalexandre](https://github.com/damienalexandre) (11 months ago)
+- [damienalexandre](https://github.com/damienalexandre) (1 year ago)
