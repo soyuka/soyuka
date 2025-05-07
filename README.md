@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [soyuka/greg-rio](https://github.com/soyuka/greg-rio) -  (today)
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [soyuka/greg-rio](https://github.com/soyuka/greg-rio) -  (1 day ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 4 days ago) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4), 4 days ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.3.0-BETA1), 5 days ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4), 5 days ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.7](https://github.com/api-platform/core/releases/tag/v4.1.7), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
