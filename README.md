@@ -24,4 +24,4 @@
 
 - [vemaeg](https://github.com/vemaeg) (2 months ago)
 - [SebLevDev](https://github.com/SebLevDev) (5 months ago)
-- [damienalexandre](https://github.com/damienalexandre) (1 year ago)
+- [mrhenry](https://github.com/mrhenry) (1 year ago)
