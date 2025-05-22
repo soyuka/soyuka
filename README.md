@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6), today) - The PHP Unit Testing framework.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.0](https://github.com/dunglas/frankenphp/releases/tag/v1.6.0), 2 days ago) - 🧟 The modern PHP app server
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.1.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6), 1 day ago) - The PHP Unit Testing framework.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.0](https://github.com/dunglas/frankenphp/releases/tag/v1.6.0), 3 days ago) - 🧟 The modern PHP app server
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.7](https://github.com/api-platform/admin/releases/tag/v4.0.7), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
