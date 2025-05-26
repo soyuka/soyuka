@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 
