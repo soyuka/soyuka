@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (3 days ago)
-- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (3 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), today) - The Symfony PHP framework
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.2](https://github.com/dunglas/frankenphp/releases/tag/v1.6.2), 2 days ago) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.12](https://github.com/api-platform/core/releases/tag/v4.1.12), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), 1 day ago) - The Symfony PHP framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.2](https://github.com/dunglas/frankenphp/releases/tag/v1.6.2), 3 days ago) - 🧟 The modern PHP app server
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.12](https://github.com/api-platform/core/releases/tag/v4.1.12), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
