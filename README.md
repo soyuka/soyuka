@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (1 day ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.0), today) - Doctrine migrations for PostgreSQL enum
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.1), 1 day ago) - :musical_score: Extension integrating Behat with Symfony.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), 3 days ago) - The Symfony PHP framework
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.2](https://github.com/dunglas/frankenphp/releases/tag/v1.6.2), 5 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
