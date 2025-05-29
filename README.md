@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), today) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.0), 1 day ago) - Doctrine migrations for PostgreSQL enum
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.1), 2 days ago) - :musical_score: Extension integrating Behat with Symfony.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), 4 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
