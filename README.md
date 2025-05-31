@@ -10,7 +10,7 @@
 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 2 days ago) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.0), 3 days ago) - Doctrine migrations for PostgreSQL enum
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.1), 4 days ago) - :musical_score: Extension integrating Behat with Symfony.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.6.2](https://github.com/dunglas/frankenphp/releases/tag/v1.6.2), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
