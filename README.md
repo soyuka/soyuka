@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 1 day ago) - The Symfony PHP framework
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.0), 2 days ago) - Doctrine migrations for PostgreSQL enum
-- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.1), 3 days ago) - :musical_score: Extension integrating Behat with Symfony.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 2 days ago) - The Symfony PHP framework
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.0), 3 days ago) - Doctrine migrations for PostgreSQL enum
+- [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) ([v2.6.1](https://github.com/FriendsOfBehat/SymfonyExtension/releases/tag/v2.6.1), 4 days ago) - :musical_score: Extension integrating Behat with Symfony.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
