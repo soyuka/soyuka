@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (today)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.7.0](https://github.com/dunglas/frankenphp/releases/tag/v1.7.0), 1 day ago) - 🧟 The modern PHP app server
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 6 days ago) - The Symfony PHP framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.7.0](https://github.com/dunglas/frankenphp/releases/tag/v1.7.0), 2 days ago) - 🧟 The modern PHP app server
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 1 week ago) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.0), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
