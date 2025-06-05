@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.1), today) - Doctrine migrations for PostgreSQL enum
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.7.0](https://github.com/dunglas/frankenphp/releases/tag/v1.7.0), 2 days ago) - 🧟 The modern PHP app server
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 1 week ago) - The Symfony PHP framework
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.0), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
