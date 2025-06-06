@@ -10,7 +10,7 @@
 
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.0), today) - The PHP Unit Testing framework.
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.1), 1 day ago) - Doctrine migrations for PostgreSQL enum
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.7.0](https://github.com/dunglas/frankenphp/releases/tag/v1.7.0), 3 days ago) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.7.0](https://github.com/php/frankenphp/releases/tag/v1.7.0), 3 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
