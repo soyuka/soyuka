@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (3 days ago)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework. (4 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.13](https://github.com/api-platform/core/releases/tag/v4.1.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.1), 2 days ago) - Doctrine migrations for PostgreSQL enum
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.13](https://github.com/api-platform/core/releases/tag/v4.1.13), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.1), 3 days ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [SalvadorCardona](https://github.com/SalvadorCardona) (1 day ago)
+- [SalvadorCardona](https://github.com/SalvadorCardona) (2 days ago)
 - [vemaeg](https://github.com/vemaeg) (3 months ago)
 - [SebLevDev](https://github.com/SebLevDev) (5 months ago)
