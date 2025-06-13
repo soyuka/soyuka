@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1), 5 days ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.13](https://github.com/api-platform/core/releases/tag/v4.1.13), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.1), 6 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.13](https://github.com/api-platform/core/releases/tag/v4.1.13), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.1), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [SalvadorCardona](https://github.com/SalvadorCardona) (6 days ago)
+- [SalvadorCardona](https://github.com/SalvadorCardona) (1 week ago)
 - [vemaeg](https://github.com/vemaeg) (3 months ago)
 - [SebLevDev](https://github.com/SebLevDev) (5 months ago)
