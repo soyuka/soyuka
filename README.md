@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3), today) - The PHP Unit Testing framework.
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.3](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.3), 2 days ago) - Doctrine migrations for PostgreSQL enum
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.3), 1 day ago) - The PHP Unit Testing framework.
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.3](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.3), 3 days ago) - Doctrine migrations for PostgreSQL enum
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.16](https://github.com/api-platform/core/releases/tag/v4.1.16), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
