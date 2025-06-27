@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.4), 1 day ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5), today) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.17](https://github.com/api-platform/core/releases/tag/v4.1.17), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.3](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.3), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
