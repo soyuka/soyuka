@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (today)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (1 day ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.17](https://github.com/api-platform/core/releases/tag/v4.1.17), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.17](https://github.com/api-platform/core/releases/tag/v4.1.17), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.0.3](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.0.3), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (3 months ago)
+- [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (4 months ago)
 - [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (6 months ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (9 months ago)
 - [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (11 months ago)
