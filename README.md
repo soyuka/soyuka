@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) ([v0.14.1](https://github.com/api-platform/api-doc-parser/releases/tag/v0.14.1), today) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
+- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) ([v0.16.8](https://github.com/api-platform/api-doc-parser/releases/tag/v0.16.8), today) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 days ago) - The Symfony PHP framework
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5), 3 days ago) - The PHP Unit Testing framework.
 
