@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) ([v0.14.1](https://github.com/api-platform/api-doc-parser/releases/tag/v0.14.1), today) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.1](https://github.com/symfony/symfony/releases/tag/v7.3.1), 2 days ago) - The Symfony PHP framework
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5), 3 days ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.17](https://github.com/api-platform/core/releases/tag/v4.1.17), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
