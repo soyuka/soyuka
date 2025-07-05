@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) ([v0.16.8](https://github.com/api-platform/api-doc-parser/releases/tag/v0.16.8), 4 days ago) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) ([v0.16.8](https://github.com/api-platform/api-doc-parser/releases/tag/v0.16.8), 5 days ago) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
