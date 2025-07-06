@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.8.0](https://github.com/php/frankenphp/releases/tag/v1.8.0), today) - 🧟 The modern PHP app server
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6), 2 days ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) ([v0.16.8](https://github.com/api-platform/api-doc-parser/releases/tag/v0.16.8), 6 days ago) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
