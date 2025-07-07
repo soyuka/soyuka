@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (3 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (4 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.8.0](https://github.com/php/frankenphp/releases/tag/v1.8.0), today) - 🧟 The modern PHP app server
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6), 2 days ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.8.0](https://github.com/php/frankenphp/releases/tag/v1.8.0), 1 day ago) - 🧟 The modern PHP app server
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6), 3 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
