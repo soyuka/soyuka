@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), today) - The PHP Unit Testing framework.
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.8.0](https://github.com/php/frankenphp/releases/tag/v1.8.0), 5 days ago) - 🧟 The modern PHP app server
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), 1 day ago) - The PHP Unit Testing framework.
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.8.0](https://github.com/php/frankenphp/releases/tag/v1.8.0), 6 days ago) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.1), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -17,7 +17,7 @@
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (4 months ago)
 - [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (7 months ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (9 months ago)
-- [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (11 months ago)
+- [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (1 year ago)
 - [API Platform 3.3](https://soyuka.me/api-platform-3.3/) (1 year ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
