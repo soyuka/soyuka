@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 1 day ago) - Doctrine migrations for PostgreSQL enum
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), 3 days ago) - The PHP Unit Testing framework.
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 2 days ago) - Doctrine migrations for PostgreSQL enum
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), 4 days ago) - The PHP Unit Testing framework.
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.8.0](https://github.com/php/frankenphp/releases/tag/v1.8.0), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -24,4 +24,4 @@
 
 - [SalvadorCardona](https://github.com/SalvadorCardona) (1 month ago)
 - [vemaeg](https://github.com/vemaeg) (4 months ago)
-- [SebLevDev](https://github.com/SebLevDev) (6 months ago)
+- [SebLevDev](https://github.com/SebLevDev) (7 months ago)
