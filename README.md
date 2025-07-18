@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 4 days ago) - Doctrine migrations for PostgreSQL enum
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), 6 days ago) - The PHP Unit Testing framework.
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 5 days ago) - Doctrine migrations for PostgreSQL enum
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), 1 week ago) - The PHP Unit Testing framework.
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.8.0](https://github.com/php/frankenphp/releases/tag/v1.8.0), 1 week ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
