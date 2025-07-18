@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.9.0](https://github.com/php/frankenphp/releases/tag/v1.9.0), today) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.19](https://github.com/api-platform/core/releases/tag/v4.1.19), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 5 days ago) - Doctrine migrations for PostgreSQL enum
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7), 1 week ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
