@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.20](https://github.com/api-platform/core/releases/tag/v4.1.20), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.9.0](https://github.com/php/frankenphp/releases/tag/v1.9.0), 1 week ago) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.19](https://github.com/api-platform/core/releases/tag/v4.1.19), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
