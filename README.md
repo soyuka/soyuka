@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [soyuka/sylius-benchmarks](https://github.com/soyuka/sylius-benchmarks) - Sylius benchmarks FrankenPHP (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [soyuka/sylius-benchmarks](https://github.com/soyuka/sylius-benchmarks) - Sylius benchmarks FrankenPHP (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.20](https://github.com/api-platform/core/releases/tag/v4.1.20), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.20](https://github.com/api-platform/core/releases/tag/v4.1.20), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.9.0](https://github.com/php/frankenphp/releases/tag/v1.9.0), 1 week ago) - 🧟 The modern PHP app server
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 1 week ago) - Doctrine migrations for PostgreSQL enum
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.0), 2 weeks ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
