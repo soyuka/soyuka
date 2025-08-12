@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 weeks ago)
 - [soyuka/sylius-benchmarks](https://github.com/soyuka/sylius-benchmarks) - Sylius benchmarks FrankenPHP (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.3), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.3), 1 day ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.2](https://github.com/symfony/symfony/releases/tag/v7.3.2), 1 week ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.20](https://github.com/api-platform/core/releases/tag/v4.1.20), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
