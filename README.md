@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (6 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (1 week ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.0.3](https://github.com/pestphp/pest/releases/tag/v4.0.3), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.0.3](https://github.com/pestphp/pest/releases/tag/v4.0.3), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.5](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.5), 1 week ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
