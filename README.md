@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.9.1](https://github.com/php/frankenphp/releases/tag/v1.9.1), today) - 🧟 The modern PHP app server
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.3](https://github.com/symfony/symfony/releases/tag/v7.3.3), today) - The Symfony PHP framework
 - [pestphp/pest](https://github.com/pestphp/pest) ([v4.0.4](https://github.com/pestphp/pest/releases/tag/v4.0.4), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.7), 1 day ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
