@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (6 days ago)
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.1), today) - Integrates Doctrine MongoDB ODM with Symfony
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8), 1 day ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.1), 1 day ago) - Integrates Doctrine MongoDB ODM with Symfony
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-alpha.3](https://github.com/api-platform/core/releases/tag/v4.2.0-alpha.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
