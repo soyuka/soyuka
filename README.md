@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
