@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) - Integrates Doctrine MongoDB ODM with Symfony (2 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.23](https://github.com/api-platform/core/releases/tag/v4.1.23), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.1), 1 day ago) - Integrates Doctrine MongoDB ODM with Symfony
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.1.23](https://github.com/api-platform/core/releases/tag/v4.1.23), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.1), 2 days ago) - Integrates Doctrine MongoDB ODM with Symfony
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.8), 3 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
