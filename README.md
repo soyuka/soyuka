@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/sylius-benchmarks](https://github.com/soyuka/sylius-benchmarks) - Sylius benchmarks FrankenPHP (3 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [soyuka/sylius-benchmarks](https://github.com/soyuka/sylius-benchmarks) - Sylius benchmarks FrankenPHP (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.10), 1 day ago) - The PHP Unit Testing framework.
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.0](https://github.com/pestphp/pest/releases/tag/v4.1.0), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.10](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.10), 2 days ago) - The PHP Unit Testing framework.
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.0](https://github.com/pestphp/pest/releases/tag/v4.1.0), 3 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.1.23](https://github.com/api-platform/core/releases/tag/v4.1.23), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
@@ -24,4 +24,4 @@
 
 - [SalvadorCardona](https://github.com/SalvadorCardona) (3 months ago)
 - [vemaeg](https://github.com/vemaeg) (6 months ago)
-- [SebLevDev](https://github.com/SebLevDev) (8 months ago)
+- [SebLevDev](https://github.com/SebLevDev) (9 months ago)
