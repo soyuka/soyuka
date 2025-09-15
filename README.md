@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (today)
 - [soyuka/sylius-benchmarks](https://github.com/soyuka/sylius-benchmarks) - Sylius benchmarks FrankenPHP (6 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
