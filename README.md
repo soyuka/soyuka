@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.1.24](https://github.com/api-platform/core/releases/tag/v4.1.24), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.2.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.11](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.11), 2 days ago) - The PHP Unit Testing framework.
 - [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.0](https://github.com/pestphp/pest/releases/tag/v4.1.0), 6 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
