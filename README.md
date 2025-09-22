@@ -14,11 +14,11 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (4 days ago)
-- [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (6 months ago)
-- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (9 months ago)
-- [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (1 year ago)
-- [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (1 year ago)
+- [API Platform 4.2 - Redefining API Development](http://localhost:1313/api-platform-4-2-redefining-api-development/) (4 days ago)
+- [API Platform 4.1 - Documentation at the heart of API Discoverability](http://localhost:1313/api-platform-4-1-documentation-heart-api-discoverability/) (6 months ago)
+- [Symfony Object Mapper component](http://localhost:1313/symfony-object-mapper-component/) (9 months ago)
+- [API Platform 4 - The pragmatic API Platform](http://localhost:1313/api-platform-4-the-pragmatic-api-platform/) (1 year ago)
+- [Upgrading PHPUnit and speeding up API Platform unit tests](http://localhost:1313/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (1 year ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
