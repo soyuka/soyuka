@@ -8,13 +8,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0](https://github.com/api-platform/core/releases/tag/v4.2.0), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.14](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.14), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.0](https://github.com/api-platform/core/releases/tag/v4.2.0), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.0](https://github.com/pestphp/pest/releases/tag/v4.1.0), 2 weeks ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (6 days ago)
+- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (1 week ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (6 months ago)
 - [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (9 months ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (1 year ago)
