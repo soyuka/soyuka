@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (today)
+- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (1 day ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15), today) - The PHP Unit Testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 1 day ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.1](https://github.com/api-platform/core/releases/tag/v4.2.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15), 1 day ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 2 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.1](https://github.com/api-platform/core/releases/tag/v4.2.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
