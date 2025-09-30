@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
