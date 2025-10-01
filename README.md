@@ -2,21 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (2 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15), 2 days ago) - The PHP Unit Testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 3 days ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.1](https://github.com/api-platform/core/releases/tag/v4.2.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15), 3 days ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 4 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.1](https://github.com/api-platform/core/releases/tag/v4.2.1), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
 - [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (1 week ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (7 months ago)
-- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (9 months ago)
+- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (10 months ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (1 year ago)
 - [Upgrading PHPUnit and speeding up API Platform unit tests](https://soyuka.me/upgrading-phpunit-and-speeding-up-api-platform-unit-tests/) (1 year ago)
 
