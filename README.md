@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (4 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (3 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.1](https://github.com/pestphp/pest/releases/tag/v4.1.1), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15), 4 days ago) - The PHP Unit Testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 5 days ago) - The Symfony PHP framework
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.1](https://github.com/pestphp/pest/releases/tag/v4.1.1), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.3.15](https://github.com/sebastianbergmann/phpunit/releases/tag/12.3.15), 5 days ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 6 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
