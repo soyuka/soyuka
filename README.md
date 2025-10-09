@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (today)
+- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (1 day ago)
 - [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 week ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.2](https://github.com/pestphp/pest/releases/tag/v4.1.2), 3 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.0), 5 days ago) - The PHP Unit Testing framework.
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.2](https://github.com/pestphp/pest/releases/tag/v4.1.2), 4 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.0), 6 days ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (2 weeks ago)
+- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (3 weeks ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (7 months ago)
 - [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (10 months ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (1 year ago)
