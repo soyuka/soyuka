@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [soyuka/grpcweb](https://github.com/soyuka/grpcweb) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.2](https://github.com/api-platform/core/releases/tag/v4.2.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.2](https://github.com/pestphp/pest/releases/tag/v4.1.2), 4 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.2](https://github.com/api-platform/core/releases/tag/v4.2.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.2](https://github.com/pestphp/pest/releases/tag/v4.1.2), 5 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
