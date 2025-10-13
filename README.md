@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mholt/caddy-grpc-web](https://github.com/mholt/caddy-grpc-web) - Caddy module to Convert gRPC-Web requests to normal gRPC for servers (today)
 - [soyuka/caddy-grpc](https://github.com/soyuka/caddy-grpc) -  (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
