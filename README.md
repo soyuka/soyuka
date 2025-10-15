@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mholt/caddy-grpc-web](https://github.com/mholt/caddy-grpc-web) - Caddy module to Convert gRPC-Web requests to normal gRPC for servers (1 day ago)
-- [soyuka/caddy-grpc](https://github.com/soyuka/caddy-grpc) -  (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
+- [mholt/caddy-grpc-web](https://github.com/mholt/caddy-grpc-web) - Caddy module to Convert gRPC-Web requests to normal gRPC for servers (2 days ago)
+- [soyuka/caddy-grpc](https://github.com/soyuka/caddy-grpc) -  (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), 5 days ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.2](https://github.com/api-platform/core/releases/tag/v4.2.2), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), 6 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.2](https://github.com/api-platform/core/releases/tag/v4.2.2), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.2](https://github.com/pestphp/pest/releases/tag/v4.1.2), 1 week ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
