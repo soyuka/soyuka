@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (1 day ago)
-- [soyuka/PayumCore](https://github.com/soyuka/PayumCore) -  (2 days ago)
-- [soyuka/caddy-grpc](https://github.com/soyuka/caddy-grpc) -  (6 days ago)
+- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (2 days ago)
+- [soyuka/PayumCore](https://github.com/soyuka/PayumCore) -  (3 days ago)
+- [soyuka/caddy-grpc](https://github.com/soyuka/caddy-grpc) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.2](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.2), 2 days ago) - Integrates Doctrine MongoDB ODM with Symfony
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.2](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.2), 3 days ago) - Integrates Doctrine MongoDB ODM with Symfony
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), 1 week ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.2](https://github.com/api-platform/core/releases/tag/v4.2.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
