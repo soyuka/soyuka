@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (today)
 - [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (2 days ago)
 - [soyuka/PayumCore](https://github.com/soyuka/PayumCore) -  (3 days ago)
-- [soyuka/caddy-grpc](https://github.com/soyuka/caddy-grpc) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
