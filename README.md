@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-BETA1](https://github.com/symfony/symfony/releases/tag/v7.4.0-BETA1), today) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.2](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.2), 1 week ago) - Integrates Doctrine MongoDB ODM with Symfony
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), 2 weeks ago) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.2](https://github.com/api-platform/core/releases/tag/v4.2.2), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
