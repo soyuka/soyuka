@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (4 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (2 days ago)
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (5 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 1 day ago) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.2](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.2), 1 week ago) - Integrates Doctrine MongoDB ODM with Symfony
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), 2 weeks ago) - The PHP Unit Testing framework.
 
