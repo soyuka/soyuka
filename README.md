@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.3](https://github.com/pestphp/pest/releases/tag/v4.1.3), today) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 1 day ago) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.2](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.2), 1 week ago) - Integrates Doctrine MongoDB ODM with Symfony
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.1](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.1), 2 weeks ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
