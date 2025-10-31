@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (4 days ago)
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
 
 #### 🔭 Latest releases I've contributed to
 
