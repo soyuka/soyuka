@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (today)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (4 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (1 day ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (5 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2), 2 days ago) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2), 5 days ago) - The PHP Unit Testing framework.
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.3](https://github.com/pestphp/pest/releases/tag/v4.1.3), 6 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2), 3 days ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2), 6 days ago) - The PHP Unit Testing framework.
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.3](https://github.com/pestphp/pest/releases/tag/v4.1.3), 1 week ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
