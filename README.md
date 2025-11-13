@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), 1 day ago) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.3](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.3), 1 week ago) - Integrates Doctrine MongoDB ODM with Symfony
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2), 1 week ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2), 2 weeks ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
