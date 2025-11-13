@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.4.0-RC1), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), today) - The Symfony PHP framework
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), today) - The PHP Unit Testing framework.
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.3](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.3), 1 week ago) - Integrates Doctrine MongoDB ODM with Symfony
 
