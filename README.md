@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), today) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), 1 day ago) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.3](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.3), 1 week ago) - Integrates Doctrine MongoDB ODM with Symfony
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.2](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.2), 2 weeks ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
