@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), today) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), today) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), 1 day ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), 1 day ago) - The PHP Unit Testing framework.
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.4.3](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.4.3), 1 week ago) - Integrates Doctrine MongoDB ODM with Symfony
 
 #### 📜 My recent [blog posts](https://soyuka.me)
