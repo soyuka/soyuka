@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.5.0](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.5.0), today) - Integrates Doctrine MongoDB ODM with Symfony
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), 1 day ago) - The Symfony PHP framework
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), 1 day ago) - The PHP Unit Testing framework.
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.3](https://github.com/pestphp/pest/releases/tag/v4.1.3), 2 weeks ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
