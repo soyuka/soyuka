@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (3 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (4 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), today) - The Symfony PHP framework
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.5.0](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.5.0), 2 days ago) - Integrates Doctrine MongoDB ODM with Symfony
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), 3 days ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), 1 day ago) - The Symfony PHP framework
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.5.0](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.5.0), 3 days ago) - Integrates Doctrine MongoDB ODM with Symfony
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), 4 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (1 month ago)
+- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (2 months ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (8 months ago)
 - [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (11 months ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (1 year ago)
