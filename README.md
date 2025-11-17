@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [GenesisFR/DS1TroubleshootingGuide](https://github.com/GenesisFR/DS1TroubleshootingGuide) - A document listing all technical issues for Dungeon Siege 1 along with solutions. (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.5](https://github.com/api-platform/core/releases/tag/v4.2.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), 1 day ago) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.5.0](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.5.0), 3 days ago) - Integrates Doctrine MongoDB ODM with Symfony
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.3), 4 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
