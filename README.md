@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
-- [GenesisFR/DS1TroubleshootingGuide](https://github.com/GenesisFR/DS1TroubleshootingGuide) - A document listing all technical issues for Dungeon Siege 1 along with solutions. (4 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
+- [GenesisFR/DS1TroubleshootingGuide](https://github.com/GenesisFR/DS1TroubleshootingGuide) - A document listing all technical issues for Dungeon Siege 1 along with solutions. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), today) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4), today) - The PHP Unit Testing framework.
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.4](https://github.com/pestphp/pest/releases/tag/v4.1.4), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 1 day ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.4.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.4.4), 1 day ago) - The PHP Unit Testing framework.
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.4](https://github.com/pestphp/pest/releases/tag/v4.1.4), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
