@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
-- [GenesisFR/DS1TroubleshootingGuide](https://github.com/GenesisFR/DS1TroubleshootingGuide) - A document listing all technical issues for Dungeon Siege 1 along with solutions. (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
