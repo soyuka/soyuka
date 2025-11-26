@@ -4,7 +4,7 @@
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [soyuka/php-go-qrcode](https://github.com/soyuka/php-go-qrcode) - Golang php extension to create a qrcode in php (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
