@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (today)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [soyuka/php-go-qrcode](https://github.com/soyuka/php-go-qrcode) - Golang php extension to create a qrcode in php (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
