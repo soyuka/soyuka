@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
-- [soyuka/php-go-qrcode](https://github.com/soyuka/php-go-qrcode) - Golang php extension to create a qrcode in php (6 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
+- [soyuka/php-go-qrcode](https://github.com/soyuka/php-go-qrcode) - Golang php extension to create a qrcode in php (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.5](https://github.com/pestphp/pest/releases/tag/v4.1.5), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.1), 4 days ago) - Doctrine migrations for PostgreSQL enum
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 5 days ago) - The Symfony PHP framework
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.5](https://github.com/pestphp/pest/releases/tag/v4.1.5), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.1), 5 days ago) - Doctrine migrations for PostgreSQL enum
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 6 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
