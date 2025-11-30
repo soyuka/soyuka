@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
-- [soyuka/php-go-qrcode](https://github.com/soyuka/php-go-qrcode) - Golang php extension to create a qrcode in php (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.7](https://github.com/api-platform/core/releases/tag/v4.2.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.2.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.2.0), today) - Doctrine migrations for PostgreSQL enum
 - [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.6](https://github.com/pestphp/pest/releases/tag/v4.1.6), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 3 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
