@@ -2,22 +2,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (2 days ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
+- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
 - [soyuka/php-go-qrcode](https://github.com/soyuka/php-go-qrcode) - Golang php extension to create a qrcode in php (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.6](https://github.com/pestphp/pest/releases/tag/v4.1.6), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 2 days ago) - The Symfony PHP framework
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.1.6](https://github.com/pestphp/pest/releases/tag/v4.1.6), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 3 days ago) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.1.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.1.1), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (2 days ago)
+- [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (3 days ago)
 - [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (2 months ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (9 months ago)
-- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (11 months ago)
+- [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (1 year ago)
 - [API Platform 4 - The pragmatic API Platform](https://soyuka.me/api-platform-4-the-pragmatic-api-platform/) (1 year ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
