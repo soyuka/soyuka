@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
+- [daFish](https://github.com/daFish) (today)
 - [rnk](https://github.com/rnk) (3 days ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (6 months ago)
-- [vemaeg](https://github.com/vemaeg) (9 months ago)
