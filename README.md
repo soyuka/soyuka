@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
 - [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
 
