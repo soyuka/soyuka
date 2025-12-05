@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
-- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.9](https://github.com/api-platform/core/releases/tag/v4.2.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.0](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.0), today) - The PHP Unit Testing framework.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.7](https://github.com/api-platform/core/releases/tag/v4.2.7), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.2.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.2.0), 5 days ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
