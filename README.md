@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.3.0](https://github.com/soyuka/pmu/releases/tag/v0.3.0), today) - PHP Monorepo Utility
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.3), today) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 3 days ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.9](https://github.com/api-platform/core/releases/tag/v4.2.9), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
