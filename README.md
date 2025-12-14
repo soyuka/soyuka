@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.3.0](https://github.com/soyuka/pmu/releases/tag/v0.3.0), 2 days ago) - PHP Monorepo Utility
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.3), 2 days ago) - The PHP Unit Testing framework.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.3.0](https://github.com/soyuka/pmu/releases/tag/v0.3.0), 3 days ago) - PHP Monorepo Utility
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.3), 3 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [daFish](https://github.com/daFish) (1 week ago)
-- [rnk](https://github.com/rnk) (1 week ago)
+- [rnk](https://github.com/rnk) (2 weeks ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (6 months ago)
