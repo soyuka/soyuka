@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4), today) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [soyuka/pmu](https://github.com/soyuka/pmu) ([v0.3.0](https://github.com/soyuka/pmu/releases/tag/v0.3.0), 4 days ago) - PHP Monorepo Utility
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.3](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.3), 4 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
