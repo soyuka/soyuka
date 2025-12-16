@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
