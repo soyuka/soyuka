@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (2 days ago)
+- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.2.0](https://github.com/pestphp/pest/releases/tag/v4.2.0), 3 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4), 3 days ago) - The PHP Unit Testing framework.
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.2.0](https://github.com/pestphp/pest/releases/tag/v4.2.0), 4 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.4](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.4), 4 days ago) - The PHP Unit Testing framework.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.10](https://github.com/api-platform/core/releases/tag/v4.2.10), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
