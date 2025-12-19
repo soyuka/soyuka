@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [soyuka/docs](https://github.com/soyuka/docs) -  (today)
 - [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
