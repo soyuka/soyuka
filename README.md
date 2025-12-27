@@ -14,7 +14,7 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (4 weeks ago)
+- [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (1 month ago)
 - [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (3 months ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (10 months ago)
 - [Symfony Object Mapper component](https://soyuka.me/symfony-object-mapper-component/) (1 year ago)
