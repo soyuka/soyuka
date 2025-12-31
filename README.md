@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.3](https://github.com/symfony/symfony/releases/tag/v7.4.3), today) - The Symfony PHP framework
 - [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.0](https://github.com/pestphp/pest/releases/tag/v4.3.0), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.2.2](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.2.2), 3 days ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.11](https://github.com/api-platform/core/releases/tag/v4.2.11), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
