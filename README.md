@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.1](https://github.com/pestphp/pest/releases/tag/v4.3.1), today) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 4 days ago) - The Symfony PHP framework
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.0](https://github.com/pestphp/pest/releases/tag/v4.3.0), 5 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.2.2](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.2.2), 1 week ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
