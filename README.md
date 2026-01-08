@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.8](https://github.com/api-platform/admin/releases/tag/v4.0.8), 1 day ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.1](https://github.com/pestphp/pest/releases/tag/v4.3.1), 3 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.8](https://github.com/api-platform/admin/releases/tag/v4.0.8), 2 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.1](https://github.com/pestphp/pest/releases/tag/v4.3.1), 4 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.3](https://github.com/symfony/symfony/releases/tag/v8.0.3), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
