@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.8](https://github.com/api-platform/admin/releases/tag/v4.0.8), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.1](https://github.com/pestphp/pest/releases/tag/v4.3.1), 6 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
