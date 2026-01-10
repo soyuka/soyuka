@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.8](https://github.com/api-platform/admin/releases/tag/v4.0.8), 3 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.1](https://github.com/pestphp/pest/releases/tag/v4.3.1), 5 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.8](https://github.com/api-platform/admin/releases/tag/v4.0.8), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.1](https://github.com/pestphp/pest/releases/tag/v4.3.1), 6 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
