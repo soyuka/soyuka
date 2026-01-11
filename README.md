@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.8](https://github.com/api-platform/admin/releases/tag/v4.0.8), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.12](https://github.com/api-platform/core/releases/tag/v4.2.12), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.8](https://github.com/api-platform/admin/releases/tag/v4.0.8), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
