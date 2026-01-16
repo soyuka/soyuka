@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
-- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (4 days ago)
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
