@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), today) - The PHP Unit Testing framework.
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.3.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.3.0), 5 days ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
-- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), 1 day ago) - The PHP Unit Testing framework.
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.3.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.3.0), 6 days ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
+- [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
