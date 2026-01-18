@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), 1 day ago) - The PHP Unit Testing framework.
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.3.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.3.0), 6 days ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), 2 days ago) - The PHP Unit Testing framework.
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.3.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.3.0), 1 week ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 - [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
