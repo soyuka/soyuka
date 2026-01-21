@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
+- [api-platform/elasticsearch](https://github.com/api-platform/elasticsearch) - [READ ONLY] API Platform Elasticsearch support (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), 4 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), 5 days ago) - The PHP Unit Testing framework.
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.3.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.3.0), 1 week ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 - [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
