@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/skills](https://github.com/soyuka/skills) - My llm skills (today)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (5 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
+- [soyuka/skills](https://github.com/soyuka/skills) - My llm skills (1 day ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (6 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), 6 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.6](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.6), 1 week ago) - The PHP Unit Testing framework.
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.3.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.3.0), 1 week ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 - [symfony/ai](https://github.com/symfony/ai) ([v0.2.0](https://github.com/symfony/ai/releases/tag/v0.2.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
