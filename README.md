@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [soyuka/skills](https://github.com/soyuka/skills) - My llm skills (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [soyuka/skills](https://github.com/soyuka/skills) - My llm skills (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.7), today) - The PHP Unit Testing framework.
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.0](https://github.com/symfony/ai/releases/tag/v0.3.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.3.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.3.0), today) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.7), 1 day ago) - The PHP Unit Testing framework.
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.0](https://github.com/symfony/ai/releases/tag/v0.3.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.3.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.3.0), 1 day ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
