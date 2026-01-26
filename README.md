@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.6.0](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.6.0), today) - Integrates Doctrine MongoDB ODM with Symfony
 - [symfony/ai](https://github.com/symfony/ai) ([v0.3.1](https://github.com/symfony/ai/releases/tag/v0.3.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.4](https://github.com/symfony/symfony/releases/tag/v8.0.4), 1 day ago) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.7](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.7), 2 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
