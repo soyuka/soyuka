@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8), today) - The PHP Unit Testing framework.
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.2](https://github.com/symfony/ai/releases/tag/v0.3.2), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.6.0](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.6.0), 1 day ago) - Integrates Doctrine MongoDB ODM with Symfony
 
 #### 📜 My recent [blog posts](https://soyuka.me)
