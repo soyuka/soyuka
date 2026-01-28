@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8), today) - The PHP Unit Testing framework.
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.6.0](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.6.0), 1 day ago) - Integrates Doctrine MongoDB ODM with Symfony
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.3.2](https://github.com/pestphp/pest/releases/tag/v4.3.2), today) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [symfony/ai](https://github.com/symfony/ai) ([v0.3.3](https://github.com/symfony/ai/releases/tag/v0.3.3), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.8](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.8), 1 day ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
