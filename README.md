@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.5](https://github.com/api-platform/schema-generator/releases/tag/v5.2.5), today) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 1 day ago) - The Symfony PHP framework
-- [pestphp/pest](https://github.com/pestphp/pest) ([v2.36.1](https://github.com/pestphp/pest/releases/tag/v2.36.1), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.5](https://github.com/api-platform/schema-generator/releases/tag/v5.2.5), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 2 days ago) - The Symfony PHP framework
+- [pestphp/pest](https://github.com/pestphp/pest) ([v2.36.1](https://github.com/pestphp/pest/releases/tag/v2.36.1), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -24,4 +24,4 @@
 
 - [daFish](https://github.com/daFish) (1 month ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (7 months ago)
-- [vemaeg](https://github.com/vemaeg) (10 months ago)
+- [vemaeg](https://github.com/vemaeg) (11 months ago)
