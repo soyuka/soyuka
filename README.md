@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) - PHP Model Scaffolding from Schema.org and other RDF vocabularies (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.15](https://github.com/api-platform/core/releases/tag/v4.2.15), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.5](https://github.com/api-platform/schema-generator/releases/tag/v5.2.5), 1 day ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 2 days ago) - The Symfony PHP framework
-- [pestphp/pest](https://github.com/pestphp/pest) ([v2.36.1](https://github.com/pestphp/pest/releases/tag/v2.36.1), 2 days ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
