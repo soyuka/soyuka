@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.15](https://github.com/api-platform/core/releases/tag/v4.2.15), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.5](https://github.com/api-platform/schema-generator/releases/tag/v5.2.5), 2 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 3 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.15](https://github.com/api-platform/core/releases/tag/v4.2.15), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/schema-generator](https://github.com/api-platform/schema-generator) ([v5.2.5](https://github.com/api-platform/schema-generator/releases/tag/v5.2.5), 3 days ago) - PHP Model Scaffolding from Schema.org and other RDF vocabularies
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 4 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [daFish](https://github.com/daFish) (1 month ago)
-- [SalvadorCardona](https://github.com/SalvadorCardona) (7 months ago)
+- [daFish](https://github.com/daFish) (2 months ago)
+- [SalvadorCardona](https://github.com/SalvadorCardona) (8 months ago)
 - [vemaeg](https://github.com/vemaeg) (11 months ago)
