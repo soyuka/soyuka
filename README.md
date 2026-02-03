@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (4 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
 
