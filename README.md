@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/zod](https://github.com/api-platform/zod) - Generate Zod schemas from JSON-LD / Hydra API documentation — resilient API clients    with runtime validation (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/zod](https://github.com/api-platform/zod) - Generate Zod schemas from JSON-LD / Hydra API documentation — resilient API clients    with runtime validation (1 day ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
