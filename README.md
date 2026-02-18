@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.4](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.4), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5), today) - The PHP Unit Testing framework.
 - [pestphp/pest](https://github.com/pestphp/pest) ([v4.4.1](https://github.com/pestphp/pest/releases/tag/v4.4.1), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.2.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.2.1), 3 days ago) - Doctrine migrations for PostgreSQL enum
 
