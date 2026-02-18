@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pestphp/pest](https://github.com/pestphp/pest) ([v4.4.1](https://github.com/pestphp/pest/releases/tag/v4.4.1), today) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.3), 1 day ago) - The PHP Unit Testing framework.
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.2.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.2.1), 2 days ago) - Doctrine migrations for PostgreSQL enum
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.4.1](https://github.com/pestphp/pest/releases/tag/v4.4.1), 1 day ago) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.3](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.3), 2 days ago) - The PHP Unit Testing framework.
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.2.1](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.2.1), 3 days ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
