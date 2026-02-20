@@ -4,13 +4,13 @@
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (today)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.5.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.5.0), today) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.5), 2 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
