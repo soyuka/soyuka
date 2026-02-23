@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.4.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.4.0), today) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.3.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/ai](https://github.com/symfony/ai) ([v0.5.0](https://github.com/symfony/ai/releases/tag/v0.5.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.5.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.5.0), 3 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
