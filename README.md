@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.9](https://github.com/api-platform/admin/releases/tag/v4.0.9), today) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/core](https://github.com/api-platform/core) ([v4.2.18](https://github.com/api-platform/core/releases/tag/v4.2.18), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 1 day ago) - The Symfony PHP framework
-- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) ([v0.4.0](https://github.com/modelcontextprotocol/php-sdk/releases/tag/v0.4.0), 4 days ago) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
