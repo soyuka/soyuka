@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.2.19](https://github.com/api-platform/core/releases/tag/v4.2.19), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.9](https://github.com/api-platform/admin/releases/tag/v4.0.9), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 5 days ago) - The Symfony PHP framework
 
