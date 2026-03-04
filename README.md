@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (today)
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (today)
+- [api-platform/zod](https://github.com/api-platform/zod) - Generate Zod schemas from JSON-LD / Hydra API documentation — resilient API clients    with runtime validation (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
