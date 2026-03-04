@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/zod](https://github.com/api-platform/zod) - Generate Zod schemas from JSON-LD / Hydra API documentation — resilient API clients    with runtime validation (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/zod](https://github.com/api-platform/zod) - Generate Zod schemas from JSON-LD / Hydra API documentation — resilient API clients    with runtime validation (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.9](https://github.com/api-platform/admin/releases/tag/v4.0.9), 4 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 5 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.9](https://github.com/api-platform/admin/releases/tag/v4.0.9), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 6 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
