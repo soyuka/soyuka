@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (today)
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (today)
 - [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (today)
-- [api-platform/zod](https://github.com/api-platform/zod) - Generate Zod schemas from JSON-LD / Hydra API documentation — resilient API clients    with runtime validation (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
