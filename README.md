@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [modelcontextprotocol/php-sdk](https://github.com/modelcontextprotocol/php-sdk) - The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. (today)
-- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (today)
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (today)
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 day ago)
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.9](https://github.com/api-platform/admin/releases/tag/v4.0.9), 5 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 6 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.1](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/admin](https://github.com/api-platform/admin) ([v4.0.9](https://github.com/api-platform/admin/releases/tag/v4.0.9), 6 days ago) - A beautiful and fully-featured administration interface builder for hypermedia APIs
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.6](https://github.com/symfony/symfony/releases/tag/v8.0.6), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
