@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pestphp/pest](https://github.com/pestphp/pest) ([v4.4.2](https://github.com/pestphp/pest/releases/tag/v4.4.2), today) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.3.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.3.0), 1 day ago) - Doctrine migrations for PostgreSQL enum
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.7](https://github.com/symfony/symfony/releases/tag/v8.0.7), 4 days ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.0-beta.2](https://github.com/api-platform/core/releases/tag/v4.3.0-beta.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
