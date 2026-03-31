@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (5 days ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.0), today) - Doctrine migrations for PostgreSQL enum
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.3](https://github.com/api-platform/demo/releases/tag/v4.3.3), 1 day ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.0), 1 day ago) - Doctrine migrations for PostgreSQL enum
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.3](https://github.com/api-platform/demo/releases/tag/v4.3.3), 2 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
