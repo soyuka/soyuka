@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.0.6](https://github.com/sebastianbergmann/phpunit/releases/tag/13.0.6), today) - The PHP Unit Testing framework.
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.0), 1 day ago) - Doctrine migrations for PostgreSQL enum
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.3](https://github.com/api-platform/demo/releases/tag/v4.3.3), 2 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.3](https://github.com/api-platform/core/releases/tag/v4.3.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
