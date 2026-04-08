@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 weeks ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.0), 4 days ago) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.0](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.0), 5 days ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 week ago) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.0), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
