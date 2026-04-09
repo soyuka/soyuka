@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1), 1 day ago) - The PHP Unit Testing framework.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 week ago) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.0), 1 week ago) - Doctrine migrations for PostgreSQL enum
 
