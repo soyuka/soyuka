@@ -8,13 +8,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.7.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.7.0), 1 day ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1), 3 days ago) - The PHP Unit Testing framework.
+- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.7.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.7.0), 2 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1), 4 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (4 weeks ago)
+- [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (1 month ago)
 - [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (3 months ago)
 - [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (4 months ago)
 - [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (6 months ago)
