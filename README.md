@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.2), today) - The PHP Unit Testing framework.
 - [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.7.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.7.0), 3 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.1](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.1), 5 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
