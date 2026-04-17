@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (2 weeks ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (3 weeks ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 weeks ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.5), today) - The PHP Unit Testing framework.
-- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.7.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.7.0), 6 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.5](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.5), 1 day ago) - The PHP Unit Testing framework.
+- [symfony/ai](https://github.com/symfony/ai) ([v0.7.0](https://github.com/symfony/ai/releases/tag/v0.7.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.7.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.7.0), 1 week ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
