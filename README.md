@@ -2,21 +2,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (4 weeks ago)
+- [api-platform/demo](https://github.com/api-platform/demo) - Demo app for the API Platform framework (1 month ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 month ago)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.8.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.8.0), 5 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [symfony/ai](https://github.com/symfony/ai) ([v0.8.1](https://github.com/symfony/ai/releases/tag/v0.8.1), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.8.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.8.0), 6 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.7](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.7), 1 week ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
 - [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (1 month ago)
 - [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (3 months ago)
-- [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (4 months ago)
+- [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (5 months ago)
 - [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (7 months ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (1 year ago)
 
