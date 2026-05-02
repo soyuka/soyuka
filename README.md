@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/documentation](https://github.com/api-platform/documentation) - [READ ONLY] API Platform Documentation component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/documentation](https://github.com/api-platform/documentation) - [READ ONLY] API Platform Documentation component (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), today) - The Symfony PHP framework
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8), today) - The PHP Unit Testing framework.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.4](https://github.com/api-platform/demo/releases/tag/v4.3.4), 1 day ago) - Demo app for the API Platform framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.9](https://github.com/symfony/symfony/releases/tag/v8.0.9), 1 day ago) - The Symfony PHP framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8), 1 day ago) - The PHP Unit Testing framework.
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.4](https://github.com/api-platform/demo/releases/tag/v4.3.4), 2 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [daFish](https://github.com/daFish) (4 months ago)
-- [SalvadorCardona](https://github.com/SalvadorCardona) (10 months ago)
+- [daFish](https://github.com/daFish) (5 months ago)
+- [SalvadorCardona](https://github.com/SalvadorCardona) (11 months ago)
 - [vemaeg](https://github.com/vemaeg) (1 year ago)
