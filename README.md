@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (2 days ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 4 days ago) - The Symfony PHP framework
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.8](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.8), 1 week ago) - The PHP Unit Testing framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.4](https://github.com/api-platform/demo/releases/tag/v4.3.4), 1 week ago) - Demo app for the API Platform framework
 
