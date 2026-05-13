@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.5](https://github.com/api-platform/demo/releases/tag/v4.3.5), 1 day ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.5](https://github.com/api-platform/core/releases/tag/v4.3.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 6 days ago) - The Symfony PHP framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.5](https://github.com/api-platform/demo/releases/tag/v4.3.5), 2 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.5](https://github.com/api-platform/core/releases/tag/v4.3.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
