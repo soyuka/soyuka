@@ -2,22 +2,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (2 days ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), today) - The PHP Unit Testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 2 days ago) - The Symfony PHP framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.5](https://github.com/api-platform/demo/releases/tag/v4.3.5), 4 days ago) - Demo app for the API Platform framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), 1 day ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA2), 3 days ago) - The Symfony PHP framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.5](https://github.com/api-platform/demo/releases/tag/v4.3.5), 5 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
 - [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (2 months ago)
 - [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (4 months ago)
 - [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (5 months ago)
-- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (7 months ago)
+- [API Platform 4.2 - Redefining API Development](https://soyuka.me/api-platform-4-2-redefining-api-development/) (8 months ago)
 - [API Platform 4.1 - Documentation at the heart of API Discoverability](https://soyuka.me/api-platform-4-1-documentation-heart-api-discoverability/) (1 year ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
