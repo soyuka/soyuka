@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.9.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.9.0), 3 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), 4 days ago) - The PHP Unit Testing framework.
+- [symfony/ai](https://github.com/symfony/ai) ([v0.9.0](https://github.com/symfony/ai/releases/tag/v0.9.0), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.9.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.9.0), 4 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.10](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.10), 5 days ago) - The PHP Unit Testing framework.
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
