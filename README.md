@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([12.5.26](https://github.com/sebastianbergmann/phpunit/releases/tag/12.5.26), today) - The PHP Unit Testing framework.
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.11](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.11), today) - The PHP Unit Testing framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.5.1](https://github.com/api-platform/demo/releases/tag/v4.3.5.1), 1 day ago) - Demo app for the API Platform framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), 1 day ago) - The Symfony PHP framework
 
