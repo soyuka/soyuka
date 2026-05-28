@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (5 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/json-api](https://github.com/api-platform/json-api) - [READ ONLY] API Platform JSON:API component (6 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13), today) - The PHP Unit Testing framework.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.1.0-RC1), today) - The Symfony PHP framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.6](https://github.com/api-platform/demo/releases/tag/v4.3.6), 5 days ago) - Demo app for the API Platform framework
+- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.13](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.13), 1 day ago) - The PHP Unit Testing framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.1.0-RC1), 1 day ago) - The Symfony PHP framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.6](https://github.com/api-platform/demo/releases/tag/v4.3.6), 6 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
