@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.2.25](https://github.com/api-platform/core/releases/tag/v4.2.25), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([13.1.14](https://github.com/sebastianbergmann/phpunit/releases/tag/13.1.14), today) - The PHP Unit Testing framework.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.7](https://github.com/api-platform/demo/releases/tag/v4.3.7), 6 days ago) - Demo app for the API Platform framework
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 6 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
