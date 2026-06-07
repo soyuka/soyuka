@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (4 days ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (4 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (5 days ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.9](https://github.com/api-platform/demo/releases/tag/v4.3.9), 2 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.9](https://github.com/api-platform/demo/releases/tag/v4.3.9), 3 days ago) - Demo app for the API Platform framework
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
