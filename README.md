@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.10](https://github.com/api-platform/demo/releases/tag/v4.3.10), 2 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.10](https://github.com/api-platform/demo/releases/tag/v4.3.10), 3 days ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (today)
+- [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (1 day ago)
 - [Replacing Serialization Groups with Property-Level Security](https://soyuka.me/replacing-serialization-groups-with-property-level-security/) (2 months ago)
 - [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (2 months ago)
 - [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (5 months ago)
