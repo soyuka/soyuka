@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (today)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (today)
 - [api-platform/skillset](https://github.com/api-platform/skillset) - API Platform agent skills (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.1](https://github.com/api-platform/api-platform/releases/tag/v10.0.1), today) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.3](https://github.com/api-platform/api-platform/releases/tag/v10.0.3), today) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.11](https://github.com/api-platform/demo/releases/tag/v4.3.11), today) - Demo app for the API Platform framework
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.11](https://github.com/api-platform/core/releases/tag/v4.3.11), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
