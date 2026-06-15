@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (1 day ago)
-- [api-platform/skillset](https://github.com/api-platform/skillset) - API Platform agent skills (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (today)
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
