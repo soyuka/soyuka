@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.10.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.10.0), today) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.4](https://github.com/api-platform/api-platform/releases/tag/v10.0.4), 2 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.13](https://github.com/api-platform/demo/releases/tag/v4.3.13), 3 days ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.13](https://github.com/api-platform/core/releases/tag/v4.3.13), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
