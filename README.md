@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 day ago)
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk) (1 day ago)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -14,11 +14,11 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
+- [From API to Agent](https://soyuka.me/from-api-to-agent/) (today)
 - [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (1 week ago)
 - [Replacing Serialization Groups with Property-Level Security](https://soyuka.me/replacing-serialization-groups-with-property-level-security/) (2 months ago)
 - [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (3 months ago)
 - [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (5 months ago)
-- [2025: Performance Milestone for the Symfony Ecosystem](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
