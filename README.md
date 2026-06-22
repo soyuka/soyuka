@@ -4,7 +4,7 @@
 
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/skillset](https://github.com/api-platform/skillset) - API Platform agent skills (3 days ago)
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
