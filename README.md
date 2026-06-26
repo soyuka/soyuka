@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.4.0-alpha.1](https://github.com/api-platform/core/releases/tag/v4.4.0-alpha.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.4.0-alpha.2](https://github.com/api-platform/core/releases/tag/v4.4.0-alpha.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.14](https://github.com/api-platform/demo/releases/tag/v4.3.14), 1 week ago) - Demo app for the API Platform framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.10.0](https://github.com/symfony/ai/releases/tag/v0.10.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
