@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.17](https://github.com/api-platform/core/releases/tag/v4.3.17), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.16](https://github.com/api-platform/demo/releases/tag/v4.3.16), 1 week ago) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.16](https://github.com/api-platform/core/releases/tag/v4.3.16), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
