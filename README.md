@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (1 day ago)
-- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (2 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (3 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), today) - Demo app for the API Platform framework
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), 1 day ago) - Demo app for the API Platform framework
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 2 weeks ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
