@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (today)
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (4 days ago)
-- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (5 days ago)
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications (1 day ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (5 days ago)
+- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.11.1](https://github.com/symfony/ai/releases/tag/v0.11.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.11.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.11.0), 2 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), 3 days ago) - Demo app for the API Platform framework
+- [symfony/ai](https://github.com/symfony/ai) ([v0.11.1](https://github.com/symfony/ai/releases/tag/v0.11.1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.11.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.11.0), 3 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), 4 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
