@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (3 days ago)
-- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (4 days ago)
+- [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.12.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.12.0), 1 day ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.12.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.12.0), 2 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), 1 week ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
