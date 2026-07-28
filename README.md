@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (today)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 day ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (1 week ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 5 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.12.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.12.0), 5 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), 1 week ago) - Demo app for the API Platform framework
+- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 6 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.12.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.12.0), 6 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), 2 weeks ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -18,7 +18,7 @@
 - [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (1 month ago)
 - [Replacing Serialization Groups with Property-Level Security](https://soyuka.me/replacing-serialization-groups-with-property-level-security/) (4 months ago)
 - [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (4 months ago)
-- [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (6 months ago)
+- [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (7 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
