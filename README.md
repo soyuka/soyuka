@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.2](https://github.com/symfony/symfony/releases/tag/v8.1.2), today) - The Symfony PHP framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.12.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.12.0), 1 week ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17](https://github.com/api-platform/demo/releases/tag/v4.3.17), 2 weeks ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
