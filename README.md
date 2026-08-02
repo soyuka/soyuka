@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 - [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (1 week ago)
 - [api-platform/serializer](https://github.com/api-platform/serializer) - [READ ONLY] API Platform Serializer component (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.3](https://github.com/symfony/symfony/releases/tag/v8.1.3), 3 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.3](https://github.com/symfony/symfony/releases/tag/v8.1.3), 4 days ago) - The Symfony PHP framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 1 week ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.12.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.12.0), 1 week ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 
