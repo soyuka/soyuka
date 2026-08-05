@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.6.8](https://github.com/doctrine/orm/releases/tag/3.6.8), today) - Doctrine Object Relational Mapper (ORM)
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.0-alpha.3](https://github.com/dunglas/mercure/releases/tag/v1.0.0-alpha.3), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.3](https://github.com/symfony/symfony/releases/tag/v8.1.3), 1 week ago) - The Symfony PHP framework
-- [symfony/ai](https://github.com/symfony/ai) ([v0.12.0](https://github.com/symfony/ai/releases/tag/v0.12.0), 2 weeks ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
