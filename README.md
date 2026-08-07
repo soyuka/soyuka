@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), today) - The Symfony PHP framework
 - [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17.2](https://github.com/api-platform/demo/releases/tag/v4.3.17.2), today) - Demo app for the API Platform framework
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.6.8](https://github.com/doctrine/orm/releases/tag/3.6.8), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.0-alpha.3](https://github.com/dunglas/mercure/releases/tag/v1.0.0-alpha.3), 3 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
