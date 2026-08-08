@@ -8,14 +8,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.2](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.2), today) - Doctrine migrations for PostgreSQL enum
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), today) - The Symfony PHP framework
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17.2](https://github.com/api-platform/demo/releases/tag/v4.3.17.2), today) - Demo app for the API Platform framework
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.2](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.2), 1 day ago) - Doctrine migrations for PostgreSQL enum
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 day ago) - The Symfony PHP framework
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17.2](https://github.com/api-platform/demo/releases/tag/v4.3.17.2), 1 day ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
 - [From API to Agent](https://soyuka.me/from-api-to-agent/) (1 month ago)
-- [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (1 month ago)
+- [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (2 months ago)
 - [Replacing Serialization Groups with Property-Level Security](https://soyuka.me/replacing-serialization-groups-with-property-level-security/) (4 months ago)
 - [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (4 months ago)
 - [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (7 months ago)
