@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 5 days ago) - The Symfony PHP framework
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.2](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.2), 2 weeks ago) - Doctrine migrations for PostgreSQL enum
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17.2](https://github.com/api-platform/demo/releases/tag/v4.3.17.2), 2 weeks ago) - Demo app for the API Platform framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.5](https://github.com/symfony/symfony/releases/tag/v8.1.5), 6 days ago) - The Symfony PHP framework
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.4.2](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.4.2), 3 weeks ago) - Doctrine migrations for PostgreSQL enum
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.17.2](https://github.com/api-platform/demo/releases/tag/v4.3.17.2), 3 weeks ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -24,4 +24,4 @@
 
 - [daFish](https://github.com/daFish) (8 months ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (1 year ago)
-- [vemaeg](https://github.com/vemaeg) (1 year ago)
+- [vemaeg](https://github.com/vemaeg) (2 years ago)
