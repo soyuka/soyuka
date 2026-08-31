@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 week ago)
+- [api-platform/graphql](https://github.com/api-platform/graphql) - [READ ONLY] API Platform GraphQL component (2 weeks ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 weeks ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), today) - The Symfony PHP framework
-- [symfony/ai](https://github.com/symfony/ai) ([v0.13.0](https://github.com/symfony/ai/releases/tag/v0.13.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.13.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.13.0), today) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 day ago) - The Symfony PHP framework
+- [symfony/ai](https://github.com/symfony/ai) ([v0.13.0](https://github.com/symfony/ai/releases/tag/v0.13.0), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.13.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.13.0), 1 day ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
