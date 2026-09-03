@@ -4,7 +4,7 @@
 
 - [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
