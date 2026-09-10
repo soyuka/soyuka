@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/vis-mon-metier](https://github.com/coopTilleuls/vis-mon-metier) - Répondez à une série de questions et l&#39;appli « Vis mon métier » vous propose les meilleurs binômes ! (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
+- [coopTilleuls/vis-mon-metier](https://github.com/coopTilleuls/vis-mon-metier) - Répondez à une série de questions et l&#39;appli « Vis mon métier » vous propose les meilleurs binômes ! (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.0](https://github.com/doctrine/orm/releases/tag/3.7.0), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.18](https://github.com/api-platform/demo/releases/tag/v4.3.18), 5 days ago) - Demo app for the API Platform framework
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.0](https://github.com/doctrine/orm/releases/tag/3.7.0), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.18](https://github.com/api-platform/demo/releases/tag/v4.3.18), 6 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
