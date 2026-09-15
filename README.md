@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (2 days ago)
-- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (3 days ago)
+- [api-platform/docs](https://github.com/api-platform/docs) - API Platform documentation (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), today) - The Symfony PHP framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v1.0.0-beta.1), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.7.1](https://github.com/doctrine/orm/releases/tag/3.7.1), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/demo](https://github.com/api-platform/demo) ([v4.3.19](https://github.com/api-platform/demo/releases/tag/v4.3.19), 2 days ago) - Demo app for the API Platform framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
