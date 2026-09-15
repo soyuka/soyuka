@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.4.0-beta.2](https://github.com/api-platform/core/releases/tag/v4.4.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.2](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), today) - The Symfony PHP framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v1.0.0-beta.1), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
