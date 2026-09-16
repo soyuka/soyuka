@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.2](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), today) - The Symfony PHP framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v1.0.0-beta.1), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.2](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.2), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 day ago) - The Symfony PHP framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.0-beta.1](https://github.com/dunglas/mercure/releases/tag/v1.0.0-beta.1), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
