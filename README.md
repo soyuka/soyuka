@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/ramsey-uuid](https://github.com/api-platform/ramsey-uuid) - [READ ONLY] API Platform Ramsey UUID component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -14,14 +14,14 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
+- [Forza Horizon 6 on Linux, from a broken installer to working saves](https://soyuka.me/forza-horizon-6-linux-offline-saves/) (1 day ago)
 - [From API to Agent](https://soyuka.me/from-api-to-agent/) (3 months ago)
 - [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (3 months ago)
 - [Replacing Serialization Groups with Property-Level Security](https://soyuka.me/replacing-serialization-groups-with-property-level-security/) (6 months ago)
 - [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (6 months ago)
-- [Resilient API Clients in TypeScript: why code generation is not the perfect solution](https://soyuka.me/resilient-api-clients-typescript/) (8 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
+- [0x000000000000000000001](https://github.com/0x000000000000000000001) (today)
 - [daFish](https://github.com/daFish) (9 months ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (1 year ago)
-- [vemaeg](https://github.com/vemaeg) (2 years ago)
