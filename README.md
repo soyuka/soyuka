@@ -14,11 +14,11 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
+- [API Platform 4.4 and 5.0 - Are APIs Still Relevant in the AI Era?](https://soyuka.me/api-platform-4-4-and-5-0/) (today)
 - [Forza Horizon 6 on Linux, from a broken installer to working saves](https://soyuka.me/forza-horizon-6-linux-offline-saves/) (2 days ago)
 - [From API to Agent](https://soyuka.me/from-api-to-agent/) (3 months ago)
 - [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (3 months ago)
 - [Replacing Serialization Groups with Property-Level Security](https://soyuka.me/replacing-serialization-groups-with-property-level-security/) (6 months ago)
-- [API Platform 4.3 - When Your API Meets AI](https://soyuka.me/api-platform-4-3-when-your-api-meets-ai/) (6 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
