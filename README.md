@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (3 days ago)
-- [api-platform/esa](https://github.com/api-platform/esa) - Edge side APIs for front-end developpers (4 days ago)
-- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (4 days ago)
+- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
