@@ -4,11 +4,11 @@
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (4 days ago)
-- [api-platform/website](https://github.com/api-platform/website) - The API Platform website (5 days ago)
+- [api-platform/docs-website](https://github.com/api-platform/docs-website) - Documentation website (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0](https://github.com/api-platform/core/releases/tag/v5.0.0), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.4.1](https://github.com/api-platform/core/releases/tag/v4.4.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.0](https://github.com/dunglas/mercure/releases/tag/v1.0.0), 6 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.7](https://github.com/symfony/symfony/releases/tag/v8.1.7), 1 week ago) - The Symfony PHP framework
 
