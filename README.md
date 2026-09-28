@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces. (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
+- [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces. (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.14.1](https://github.com/symfony/mcp-bundle/releases/tag/v0.14.1), today) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 1 day ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.14.1](https://github.com/symfony/mcp-bundle/releases/tag/v0.14.1), 1 day ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
