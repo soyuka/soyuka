@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), today) - The Symfony PHP framework
 - [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.14.1](https://github.com/symfony/mcp-bundle/releases/tag/v0.14.1), 2 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.1](https://github.com/api-platform/core/releases/tag/v5.0.1), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
