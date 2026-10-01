@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.3](https://github.com/doctrine/orm/releases/tag/3.7.3), today) - Doctrine Object Relational Mapper (ORM)
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.21](https://github.com/api-platform/core/releases/tag/v4.3.21), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 2 days ago) - The Symfony PHP framework
-- [symfony/ai](https://github.com/symfony/ai) ([v0.14.1](https://github.com/symfony/ai/releases/tag/v0.14.1), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
