@@ -8,7 +8,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.3](https://github.com/dunglas/mercure/releases/tag/v1.0.3), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.0.4](https://github.com/dunglas/mercure/releases/tag/v1.0.4), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.7.3](https://github.com/doctrine/orm/releases/tag/3.7.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
