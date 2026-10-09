@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (today)
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
