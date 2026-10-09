@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.0](https://github.com/dunglas/mercure/releases/tag/v1.1.0), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.8](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.8), 2 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.4](https://github.com/doctrine/orm/releases/tag/3.7.4), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
