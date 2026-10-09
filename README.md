@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.0](https://github.com/dunglas/mercure/releases/tag/v1.1.0), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.8](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.8), 1 day ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.4](https://github.com/doctrine/orm/releases/tag/3.7.4), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.0](https://github.com/dunglas/mercure/releases/tag/v1.1.0), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.8](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.8), 2 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.4](https://github.com/doctrine/orm/releases/tag/3.7.4), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
