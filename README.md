@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (1 day ago)
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner (2 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server (2 days ago)
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner (3 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.1](https://github.com/dunglas/mercure/releases/tag/v1.1.1), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.5](https://github.com/doctrine/orm/releases/tag/3.7.5), 1 day ago) - Doctrine Object Relational Mapper (ORM)
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.1](https://github.com/dunglas/mercure/releases/tag/v1.1.1), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.5](https://github.com/doctrine/orm/releases/tag/3.7.5), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
