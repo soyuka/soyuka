@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.9](https://github.com/symfony/symfony/releases/tag/v8.1.9), today) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.6.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.6.1), 1 day ago) - Integrates Doctrine MongoDB ODM with Symfony
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.2](https://github.com/dunglas/mercure/releases/tag/v1.1.2), 3 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.7.5](https://github.com/doctrine/orm/releases/tag/3.7.5), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
