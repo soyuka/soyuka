@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), today) - The Symfony PHP framework
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.9](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.9), 1 day ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.9](https://github.com/symfony/symfony/releases/tag/v8.1.9), 1 day ago) - The Symfony PHP framework
 - [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.6.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.6.1), 2 days ago) - Integrates Doctrine MongoDB ODM with Symfony
 
 #### 📜 My recent [blog posts](https://soyuka.me)
