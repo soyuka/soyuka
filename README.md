@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
+- [api-platform/hydra](https://github.com/api-platform/hydra) - [READ ONLY] API Platform Hydra component (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), today) - The Symfony PHP framework
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.9](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.9), 1 day ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
-- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.6.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.6.1), 2 days ago) - Integrates Doctrine MongoDB ODM with Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 day ago) - The Symfony PHP framework
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.9](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.9), 2 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
+- [doctrine/DoctrineMongoDBBundle](https://github.com/doctrine/DoctrineMongoDBBundle) ([5.6.1](https://github.com/doctrine/DoctrineMongoDBBundle/releases/tag/5.6.1), 3 days ago) - Integrates Doctrine MongoDB ODM with Symfony
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [0x000000000000000000001](https://github.com/0x000000000000000000001) (4 weeks ago)
+- [0x000000000000000000001](https://github.com/0x000000000000000000001) (1 month ago)
 - [daFish](https://github.com/daFish) (10 months ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (1 year ago)
