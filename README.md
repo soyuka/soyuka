@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.1](https://github.com/php/frankenphp/releases/tag/v1.13.1), today) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 1 day ago) - The Symfony PHP framework
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.9](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.9), 2 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
