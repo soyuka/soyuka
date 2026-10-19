@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
+- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (3 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (3 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.1](https://github.com/php/frankenphp/releases/tag/v1.13.1), 2 days ago) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 3 days ago) - The Symfony PHP framework
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.1](https://github.com/php/frankenphp/releases/tag/v1.13.1), 3 days ago) - 🧟 The modern PHP app server
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 4 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
