@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.2](https://github.com/php/frankenphp/releases/tag/v1.13.2), today) - 🧟 The modern PHP app server
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.4](https://github.com/dunglas/mercure/releases/tag/v1.1.4), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.1](https://github.com/php/frankenphp/releases/tag/v1.13.1), 5 days ago) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
