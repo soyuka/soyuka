@@ -14,11 +14,11 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
+- [Reverse Engineering an Undocumented Binary Format to SQL](https://soyuka.me/reverse-engineering-a-binary-format-to-sql/) (today)
 - [Resolving IRIs to Doctrine Entities with the Object Mapper](https://soyuka.me/resolving-iris-to-doctrine-entities-with-the-object-mapper/) (3 weeks ago)
 - [API Platform 4.4 and 5.0 - Are APIs Still Relevant in the AI Era?](https://soyuka.me/api-platform-4-4-and-5-0/) (1 month ago)
 - [Forza Horizon 6 on Linux, from a broken installer to working saves](https://soyuka.me/forza-horizon-6-linux-offline-saves/) (1 month ago)
 - [From API to Agent](https://soyuka.me/from-api-to-agent/) (4 months ago)
-- [BMW F800 GSA ABS pump 638C, from a 1200€ quote to a 67€ fix](https://soyuka.me/bmw-f800-gsa-abs-pump-638c-67-euro-fix/) (4 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
