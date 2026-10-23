@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [coopTilleuls/agentic-api-bench](https://github.com/coopTilleuls/agentic-api-bench) - Do coding agents use your API framework? Contracts, harness, scorer and results. (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.3](https://github.com/php/frankenphp/releases/tag/v1.13.3), today) - 🧟 The modern PHP app server
 - [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), today) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.15.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.15.0), today) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
