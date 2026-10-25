@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.5](https://github.com/dunglas/mercure/releases/tag/v1.1.5), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.3](https://github.com/php/frankenphp/releases/tag/v1.13.3), 2 days ago) - 🧟 The modern PHP app server
 - [symfony/ai](https://github.com/symfony/ai) ([v0.15.0](https://github.com/symfony/ai/releases/tag/v0.15.0), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
-- [symfony/mcp-bundle](https://github.com/symfony/mcp-bundle) ([v0.15.0](https://github.com/symfony/mcp-bundle/releases/tag/v0.15.0), 2 days ago) - Symfony integration bundle for Model Context Protocol (via official mcp/sdk)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
