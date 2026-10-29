@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
-- [coopTilleuls/agentic-api-bench](https://github.com/coopTilleuls/agentic-api-bench) - Do coding agents use your API framework? Contracts, harness, scorer and results. (5 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (6 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (6 days ago)
+- [coopTilleuls/agentic-api-bench](https://github.com/coopTilleuls/agentic-api-bench) - Do coding agents use your API framework? Contracts, harness, scorer and results. (6 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), today) - The Symfony PHP framework
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.4](https://github.com/php/frankenphp/releases/tag/v1.13.4), 2 days ago) - 🧟 The modern PHP app server
-- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), 2 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 day ago) - The Symfony PHP framework
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.4](https://github.com/php/frankenphp/releases/tag/v1.13.4), 3 days ago) - 🧟 The modern PHP app server
+- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), 3 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -23,5 +23,5 @@
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
 - [0x000000000000000000001](https://github.com/0x000000000000000000001) (1 month ago)
-- [daFish](https://github.com/daFish) (10 months ago)
+- [daFish](https://github.com/daFish) (11 months ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (1 year ago)
