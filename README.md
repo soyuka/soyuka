@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), today) - Doctrine migrations for PostgreSQL enum
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.14](https://github.com/doctrine/orm/releases/tag/2.20.14), today) - Doctrine Object Relational Mapper (ORM)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 2 days ago) - The Symfony PHP framework
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.4](https://github.com/php/frankenphp/releases/tag/v1.13.4), 4 days ago) - 🧟 The modern PHP app server
-- [symfony/ai](https://github.com/symfony/ai) ([v1.0.0-BETA1](https://github.com/symfony/ai/releases/tag/v1.0.0-BETA1), 4 days ago) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
