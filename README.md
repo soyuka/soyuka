@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 2 days ago) - Doctrine migrations for PostgreSQL enum
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.14](https://github.com/doctrine/orm/releases/tag/2.20.14), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 4 days ago) - The Symfony PHP framework
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 3 days ago) - Doctrine migrations for PostgreSQL enum
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.14](https://github.com/doctrine/orm/releases/tag/2.20.14), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 5 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
