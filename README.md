@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
-- [coopTilleuls/agentic-api-bench](https://github.com/coopTilleuls/agentic-api-bench) - Do coding agents use your API framework? Contracts, harness, scorer and results. (1 week ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 week ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), today) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 5 days ago) - Doctrine migrations for PostgreSQL enum
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.20.14](https://github.com/doctrine/orm/releases/tag/2.20.14), 5 days ago) - Doctrine Object Relational Mapper (ORM)
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
