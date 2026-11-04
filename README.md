@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (today)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/jsonld](https://github.com/api-platform/jsonld) - [READ ONLY] API Platform JSON-LD component (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), today) - The Symfony PHP framework
 - [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 5 days ago) - Doctrine migrations for PostgreSQL enum
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.14](https://github.com/doctrine/orm/releases/tag/2.20.14), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
