@@ -8,13 +8,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 4 days ago) - Doctrine migrations for PostgreSQL enum
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.14](https://github.com/doctrine/orm/releases/tag/2.20.14), 4 days ago) - Doctrine Object Relational Mapper (ORM)
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 6 days ago) - The Symfony PHP framework
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 5 days ago) - Doctrine migrations for PostgreSQL enum
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.14](https://github.com/doctrine/orm/releases/tag/2.20.14), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 1 week ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
-- [Reverse Engineering an Undocumented Binary Format to SQL](https://soyuka.me/reverse-engineering-a-binary-format-to-sql/) (1 week ago)
+- [Reverse Engineering an Undocumented Binary Format to SQL](https://soyuka.me/reverse-engineering-a-binary-format-to-sql/) (2 weeks ago)
 - [Resolving IRIs to Doctrine Entities with the Object Mapper](https://soyuka.me/resolving-iris-to-doctrine-entities-with-the-object-mapper/) (1 month ago)
 - [API Platform 4.4 and 5.0 - Are APIs Still Relevant in the AI Era?](https://soyuka.me/api-platform-4-4-and-5-0/) (1 month ago)
 - [Forza Horizon 6 on Linux, from a broken installer to working saves](https://soyuka.me/forza-horizon-6-linux-offline-saves/) (1 month ago)
