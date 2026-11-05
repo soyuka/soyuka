@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.5](https://github.com/php/frankenphp/releases/tag/v1.13.5), today) - 🧟 The modern PHP app server
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 1 day ago) - The Symfony PHP framework
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 6 days ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
