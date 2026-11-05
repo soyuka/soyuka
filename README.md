@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (today)
+- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), today) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), today) - The Symfony PHP framework
-- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 5 days ago) - Doctrine migrations for PostgreSQL enum
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [heymoon-cc/doctrine-psql-enum](https://github.com/heymoon-cc/doctrine-psql-enum) ([3.5.0](https://github.com/heymoon-cc/doctrine-psql-enum/releases/tag/3.5.0), 6 days ago) - Doctrine migrations for PostgreSQL enum
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
