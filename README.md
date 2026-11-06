@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
+- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.5](https://github.com/php/frankenphp/releases/tag/v1.13.5), today) - 🧟 The modern PHP app server
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), 1 day ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 1 day ago) - The Symfony PHP framework
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.5](https://github.com/php/frankenphp/releases/tag/v1.13.5), 1 day ago) - 🧟 The modern PHP app server
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), 2 days ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA1), 2 days ago) - The Symfony PHP framework
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
