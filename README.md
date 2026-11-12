@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
-- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.5](https://github.com/php/frankenphp/releases/tag/v1.13.5), 6 days ago) - 🧟 The modern PHP app server
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.5](https://github.com/php/frankenphp/releases/tag/v1.13.5), 1 week ago) - 🧟 The modern PHP app server
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), 1 week ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
