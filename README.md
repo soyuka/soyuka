@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.6](https://github.com/api-platform/core/releases/tag/v5.0.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), today) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.7](https://github.com/api-platform/core/releases/tag/v5.0.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.5](https://github.com/php/frankenphp/releases/tag/v1.13.5), 1 week ago) - 🧟 The modern PHP app server
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v1.1.6](https://github.com/dunglas/mercure/releases/tag/v1.1.6), 1 week ago) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
