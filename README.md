@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (1 day ago)
+- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.10](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.10), today) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.8.0](https://github.com/doctrine/orm/releases/tag/3.8.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 2 days ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.7](https://github.com/api-platform/core/releases/tag/v5.0.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
