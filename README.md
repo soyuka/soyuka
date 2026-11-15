@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (4 days ago)
+- [soyuka/dotfiles](https://github.com/soyuka/dotfiles) - Dotfiles (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.8.0](https://github.com/doctrine/orm/releases/tag/3.8.0), today) - Doctrine Object Relational Mapper (ORM)
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.7](https://github.com/api-platform/core/releases/tag/v5.0.7), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.8.0](https://github.com/doctrine/orm/releases/tag/3.8.0), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.2.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.7](https://github.com/api-platform/core/releases/tag/v5.0.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -22,6 +22,6 @@
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
-- [0x000000000000000000001](https://github.com/0x000000000000000000001) (1 month ago)
+- [0x000000000000000000001](https://github.com/0x000000000000000000001) (2 months ago)
 - [daFish](https://github.com/daFish) (11 months ago)
 - [SalvadorCardona](https://github.com/SalvadorCardona) (1 year ago)
