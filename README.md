@@ -8,8 +8,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.11](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.11), today) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.8](https://github.com/api-platform/core/releases/tag/v5.0.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.10](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.10), 1 day ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.8.0](https://github.com/doctrine/orm/releases/tag/3.8.0), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
