@@ -14,14 +14,14 @@
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
+- [Recording a 2006 car nav boot animation with an oscilloscope](https://soyuka.me/recording-a-2006-car-nav-boot-animation-with-an-oscilloscope/) (today)
 - [Reverse Engineering an Undocumented Binary Format to SQL](https://soyuka.me/reverse-engineering-a-binary-format-to-sql/) (3 weeks ago)
 - [Resolving IRIs to Doctrine Entities with the Object Mapper](https://soyuka.me/resolving-iris-to-doctrine-entities-with-the-object-mapper/) (1 month ago)
 - [API Platform 4.4 and 5.0 - Are APIs Still Relevant in the AI Era?](https://soyuka.me/api-platform-4-4-and-5-0/) (2 months ago)
 - [Forza Horizon 6 on Linux, from a broken installer to working saves](https://soyuka.me/forza-horizon-6-linux-offline-saves/) (2 months ago)
-- [From API to Agent](https://soyuka.me/from-api-to-agent/) (5 months ago)
 
 #### ❤️ These awesome people [sponsor me](https://github.com/sponsors/soyuka) (thank you!)
 
+- [thnxdev](https://github.com/thnxdev) (today)
 - [0x000000000000000000001](https://github.com/0x000000000000000000001) (2 months ago)
 - [daFish](https://github.com/daFish) (11 months ago)
-- [SalvadorCardona](https://github.com/SalvadorCardona) (1 year ago)
