@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [soyuka/claude-notepad](https://github.com/soyuka/claude-notepad) - Per-session notepad pane for Claude Code (today)
 - [soyuka/garage](https://github.com/soyuka/garage) - Soyuka&#39;s garage through an MCP service  (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 - [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [php/frankenphp](https://github.com/php/frankenphp) ([v1.14.0](https://github.com/php/frankenphp/releases/tag/v1.14.0), today) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.12](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.12), 2 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.8.0](https://github.com/doctrine/orm/releases/tag/3.8.0), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
