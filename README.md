@@ -10,7 +10,7 @@
 
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.12](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.12), 2 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.13.6](https://github.com/php/frankenphp/releases/tag/v1.13.6), 2 days ago) - 🧟 The modern PHP app server
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.8.0](https://github.com/doctrine/orm/releases/tag/3.8.0), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
