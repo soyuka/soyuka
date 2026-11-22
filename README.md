@@ -4,7 +4,7 @@
 
 - [soyuka/claude-notepad](https://github.com/soyuka/claude-notepad) - Per-session notepad pane for Claude Code (1 day ago)
 - [soyuka/garage](https://github.com/soyuka/garage) - Soyuka&#39;s garage through an MCP service  (2 days ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
