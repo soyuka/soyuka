@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [soyuka/claude-notepad](https://github.com/soyuka/claude-notepad) - Per-session notepad pane for Claude Code (1 day ago)
-- [soyuka/garage](https://github.com/soyuka/garage) - Soyuka&#39;s garage through an MCP service  (2 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.13](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.13), today) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.14.0](https://github.com/php/frankenphp/releases/tag/v1.14.0), 1 day ago) - 🧟 The modern PHP app server
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.12](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.12), 3 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
