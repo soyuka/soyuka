@@ -8,9 +8,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.6](https://github.com/api-platform/api-platform/releases/tag/v10.0.6), today) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.13](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.13), 2 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 - [php/frankenphp](https://github.com/php/frankenphp) ([v1.14.0](https://github.com/php/frankenphp/releases/tag/v1.14.0), 3 days ago) - 🧟 The modern PHP app server
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.9](https://github.com/api-platform/core/releases/tag/v5.0.9), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
