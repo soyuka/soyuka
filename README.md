@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/http-cache](https://github.com/api-platform/http-cache) - [READ ONLY] API Platform HttpCache component (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (1 day ago)
+- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), today) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.6](https://github.com/api-platform/api-platform/releases/tag/v10.0.6), 1 day ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.13](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.13), 3 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
-- [php/frankenphp](https://github.com/php/frankenphp) ([v1.14.0](https://github.com/php/frankenphp/releases/tag/v1.14.0), 4 days ago) - 🧟 The modern PHP app server
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
