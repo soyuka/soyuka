@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/hydra-mcp-bridge](https://github.com/coopTilleuls/hydra-mcp-bridge) - A Hydra MCP bridge for agentic tool discovery (today)
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (1 day ago)
-- [api-platform/validator](https://github.com/api-platform/validator) - [READ ONLY] API Platform Validator component (2 days ago)
+- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (today)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
+- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.2.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.2.0-RC1), 2 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.13](https://github.com/symfony/symfony/releases/tag/v8.1.13), today) - The Symfony PHP framework
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.6](https://github.com/api-platform/api-platform/releases/tag/v10.0.6), 3 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.13](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.13), 5 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 
