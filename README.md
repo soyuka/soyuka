@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (today)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [api-platform/symfony](https://github.com/api-platform/symfony) - [READ ONLY] API Platform for Symfony (today)
+- [coopTilleuls/hydra-mcp-bridge](https://github.com/coopTilleuls/hydra-mcp-bridge) - A Hydra MCP bridge for agentic tool discovery (today)
+- [api-platform/hal](https://github.com/api-platform/hal) - API Platform HAL component (1 day ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.13](https://github.com/symfony/symfony/releases/tag/v8.1.13), today) - The Symfony PHP framework
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.6](https://github.com/api-platform/api-platform/releases/tag/v10.0.6), 3 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.13](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.13), 5 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.13](https://github.com/symfony/symfony/releases/tag/v8.1.13), 1 day ago) - The Symfony PHP framework
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) ([v10.0.6](https://github.com/api-platform/api-platform/releases/tag/v10.0.6), 4 days ago) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [symfony/php-ext-deepclone](https://github.com/symfony/php-ext-deepclone) ([v0.8.13](https://github.com/symfony/php-ext-deepclone/releases/tag/v0.8.13), 6 days ago) - Export any serializable PHP values as pure arrays - accelerator for Symfony&#39;s DeepCloner
 
 #### 📜 My recent [blog posts](https://soyuka.me)
 
@@ -24,4 +24,4 @@
 
 - [thnxdev](https://github.com/thnxdev) (1 week ago)
 - [0x000000000000000000001](https://github.com/0x000000000000000000001) (2 months ago)
-- [daFish](https://github.com/daFish) (11 months ago)
+- [daFish](https://github.com/daFish) (1 year ago)
